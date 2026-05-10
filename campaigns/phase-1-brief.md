@@ -11,7 +11,7 @@ Acquire and activate the first 10 high-fit design-partner merchants.
 
 ## Core Message
 
-NOLBIR helps merchants launch reliable commerce infrastructure quickly with hands-on onboarding.
+Mamurify helps merchants launch reliable commerce infrastructure quickly with hands-on onboarding.
 
 ## Channels
 

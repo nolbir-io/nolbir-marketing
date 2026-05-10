@@ -3,9 +3,9 @@
 *Last updated: 2026-05-09*
 
 ## Product Overview
-**One-liner:** NOLBIR helps Uzbekistan merchants launch reliable e-commerce infrastructure faster, with hands-on onboarding and operational clarity.
+**One-liner:** Mamurify helps Uzbekistan merchants launch reliable e-commerce infrastructure faster, with hands-on onboarding and operational clarity.
 
-**What it does:** NOLBIR is positioned as e-commerce infrastructure for merchants in Uzbekistan, moving them from signed to live to transacting with fewer operational blockers. The current GTM plan emphasizes founder-led design partner onboarding first, then repeatable acquisition and activation systems. Messaging focuses on practical outcomes, clear implementation, and measurable merchant progress.
+**What it does:** Mamurify is positioned as e-commerce infrastructure for merchants in Uzbekistan, moving them from signed to live to transacting with fewer operational blockers. The current GTM plan emphasizes founder-led design partner onboarding first, then repeatable acquisition and activation systems. Messaging focuses on practical outcomes, clear implementation, and measurable merchant progress.
 
 **Product category:** E-commerce infrastructure / merchant operations enablement platform.
 

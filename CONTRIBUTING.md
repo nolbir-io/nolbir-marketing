@@ -1,6 +1,6 @@
 # Contributing
 
-Contribution guide for the NOLBIR marketing strategy repository.
+Contribution guide for the Mamurify marketing strategy repository.
 
 ## Principles
 

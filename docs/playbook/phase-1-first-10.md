@@ -4,7 +4,7 @@
 
 ## Goal
 
-10 merchants live on NOLBIR who:
+10 merchants live on Mamurify who:
 
 - Match the Phase 0 ICP exactly.
 - Will tell us the truth, weekly, about what's broken.

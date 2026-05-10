@@ -10,7 +10,7 @@ Prove repeatable acquisition and onboarding beyond founder-led sales.
 
 ## Core Message
 
-NOLBIR is a repeatable growth and operations enabler for scaling merchants.
+Mamurify is a repeatable growth and operations enabler for scaling merchants.
 
 ## Channels
 

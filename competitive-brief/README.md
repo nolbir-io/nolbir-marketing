@@ -9,7 +9,7 @@ Turn research into operational ammunition. Each brief answers: *when do we win a
 ## Key questions to answer
 
 - Per competitor: who is their target merchant, what's their pricing, what's their pitch in one sentence?
-- When does NOLBIR win head-to-head? When does NOLBIR lose? What evidence backs that?
+- When does Mamurify win head-to-head? When does Mamurify lose? What evidence backs that?
 - What objections does this competitor's existence create — and what's our answer?
 - What's the "trap" — the question we want a prospect to ask the competitor that they can't answer well?
 

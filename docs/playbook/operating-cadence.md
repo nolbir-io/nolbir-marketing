@@ -1,6 +1,6 @@
 # Operating Cadence
 
-Operating rhythm for NOLBIR marketing over the next 6 months.
+Operating rhythm for Mamurify marketing over the next 6 months.
 
 ## Weekly Growth Ops (60 min)
 

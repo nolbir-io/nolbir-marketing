@@ -10,7 +10,7 @@ Industrialize acquisition with predictable channel mix and team-led execution.
 
 ## Core Message
 
-NOLBIR is the default infrastructure partner for modern commerce operators in Uzbekistan.
+Mamurify is the default infrastructure partner for modern commerce operators in Uzbekistan.
 
 ## Channels
 

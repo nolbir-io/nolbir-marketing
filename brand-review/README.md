@@ -1,6 +1,6 @@
 # brand-review
 
-Process and rubric for checking that any piece of NOLBIR content sounds like NOLBIR before it ships.
+Process and rubric for checking that any piece of Mamurify content sounds like Mamurify before it ships.
 
 ## Purpose
 

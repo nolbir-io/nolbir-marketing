@@ -2,7 +2,7 @@
 
 ## Scope
 
-Comparison of **NOLBIR** (from `.agents/product-marketing-context.md`) to:
+Comparison of **Mamurify** (from `.agents/product-marketing-context.md`) to:
 
 - **Early Shopify** (~2004–2007 wedge): historical positioning and GTM pattern
 - **Early WooCommerce** (~2011 wedge): historical positioning and GTM pattern

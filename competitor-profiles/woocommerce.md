@@ -34,7 +34,7 @@
 |-----------|-----------------------------|
 | Positioning | “Most flexible ecommerce platform”; open source; full control of checkout/data/costs |
 | Themes | Extensions, developer community, enterprise touch CTA, case studies |
-| Primary tension for NOLBIR | **Flexibility** appeals to technical/agency buyers; **total cost of ownership** and integration burden varies widely |
+| Primary tension for Mamurify | **Flexibility** appeals to technical/agency buyers; **total cost of ownership** and integration burden varies widely |
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Strengths and weaknesses (vs NOLBIR’s phase)
+## Strengths and weaknesses (vs Mamurify’s phase)
 
 ### Strengths (WooCommerce)
 
@@ -68,10 +68,10 @@
 
 ---
 
-## Competitive implications for NOLBIR
+## Competitive implications for Mamurify
 
-**Where WooCommerce is strong vs NOLBIR:** Open ecosystem, no vendor lock-in story, massive third-party extension supply.
+**Where WooCommerce is strong vs Mamurify:** Open ecosystem, no vendor lock-in story, massive third-party extension supply.
 
-**Where NOLBIR can be strong vs WooCommerce (early-phase analogy):** If NOLBIR delivers **hosted/guided path to live + transacting** for a defined ICP, it can win merchants who would **fail** the DIY WordPress assembly project.
+**Where Mamurify can be strong vs WooCommerce (early-phase analogy):** If Mamurify delivers **hosted/guided path to live + transacting** for a defined ICP, it can win merchants who would **fail** the DIY WordPress assembly project.
 
 **Opportunity:** Position against “flexible but fragile DIY” with **operational outcomes** and **clear activation milestones** (your funnel language).

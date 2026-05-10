@@ -1,6 +1,6 @@
 # content-creation
 
-Drafts, outlines, and source files for everything NOLBIR publishes — landing pages, blog posts, social, email, decks.
+Drafts, outlines, and source files for everything Mamurify publishes — landing pages, blog posts, social, email, decks.
 
 ## Purpose
 

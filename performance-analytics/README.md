@@ -1,6 +1,6 @@
 # performance-analytics
 
-How NOLBIR knows whether marketing is working — the KPI tree, the dashboards, the weekly read.
+How Mamurify knows whether marketing is working — the KPI tree, the dashboards, the weekly read.
 
 ## Purpose
 
