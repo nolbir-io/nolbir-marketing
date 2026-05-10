@@ -25,7 +25,7 @@ Write a single sentence that a smart friend who doesn't work in your space could
 > We believe that **[shift / unmet need]** is creating a **[window / opportunity]**, and the company that wins it will be the one that **[unique approach]**.
 
 **Your version:**
->
+> We believe that e-commerce is becoming mature, and the company that wins it will be full-stack operating system, where merchants rely it on from launch to transaction.
 
 **Stress test (answer in one line each):**
 - Could a competitor write the exact same sentence? If yes, sharpen it.
@@ -47,20 +47,20 @@ A great thesis is wrong for ten years and then right for eighteen months. Name w
 
 **Fill in the three forces:**
 
-**a) Technology shift** — What is now possible, cheap, or fast that wasn't 24 months ago?
+**a) Technology shift** — With AI it is become sustainable to build custom storefronts, make integrations faster
 >
 
-**b) Market / regulatory shift** — What in the buyer's world changed (budget, behavior, law, channel)?
+**b) Market / regulatory shift** — Big marketplaces are teaching how to buy online
 >
 
-**c) Cultural / behavioral shift** — What are users now willing to do that they refused before?
+**c) Cultural / behavioral shift** — They are willing to insert their card and pay online
 >
 
 **The "why not 5 years ago" test:**
-> Five years ago, this company would have failed because: ___
+> Five years ago, this company would have failed because: Building such platform took ages
 
 **The "why not 5 years from now" test:**
-> If we wait five years, the window closes because: ___
+> If we wait five years, the window closes because: We will have many players and it become friction to move to different platform
 
 **Reference points:**
 - *Uber:* Smartphones with GPS reached mass penetration; trust in cashless payments crossed a threshold.
@@ -80,7 +80,9 @@ a16z and YC partners both push hard on this question. The point isn't to be edgy
 > We will be proven right when **[observable signal]**.
 
 **Your version:**
->
+> It is becoming increasingly complex to manage your every channel
+> We believe, from single dashboard you could manage your sales channels
+> Every actor will have their personalized view, accountant, CFO, category managers, marketing specials, owners, investors
 
 **Reference points:**
 - *Airbnb's contrarian belief:* Hosts would let strangers into their homes (every investor said no).
@@ -94,18 +96,18 @@ a16z and YC partners both push hard on this question. The point isn't to be edgy
 
 This is the section investors read first. Don't write resumes — write *unfair advantages*. Each founder fills out their own block.
 
-### Founder 1: [Name]
+### Founder 1: Hojiakbar Karimov
 
 - **Why this problem, for me, personally:**
-  >
+  > Trade innovation uplift civilizations
 - **What I've seen up close that others haven't:**
-  >
+  > Integration is edge not a bottleneck, frictionless commerce possible for everyone
 - **What I uniquely bring to building this (skill / network / scar tissue):**
-  >
+  > Decade of experience from startup to Fortune 500 companies, I will bring blend of software excellence, finance and product mindset 
 - **What I'm clearly *not* the right person for, and how we cover it:**
-  >
+  > I am clearly not operation person, Ulugbek covers operation and product development
 - **If this company didn't exist, what I'd be doing instead:**
-  >
+  > I would be working as Principal Software Engineer
 
 ### Founder 2: [Name]
 
@@ -135,13 +137,15 @@ This is the section investors read first. Don't write resumes — write *unfair 
 This is the part most founding teams skip and most regret. Do it cold, in writing, before saying it out loud.
 
 ### 5a. What we agree on (no debate)
-1.
+1. Assymetry matters
+2. Efficiency
+3. Frictionless Experience
 2.
 3.
 
 ### 5b. What we *think* we agree on but haven't actually pressure-tested
-1.
-2.
+1. Collaborating with big brothers
+2. Selling company at some point
 
 ### 5c. Where we currently disagree (and that's fine, but name it)
 | Topic | Founder A view | Founder B view | How we'll resolve / decide |
