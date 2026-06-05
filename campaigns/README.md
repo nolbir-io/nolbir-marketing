@@ -1,6 +1,6 @@
 # campaigns
 
-The phased campaign plan that gets Mamurify from where it is today to 1,000 signed merchants.
+The phased campaign plan that gets Own from where it is today to 1,000 signed merchants.
 
 ## Purpose
 

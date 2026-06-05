@@ -8,7 +8,7 @@ This phase is mostly *writing things down* — there's no merchant target, just 
 
 By the end of Phase 0:
 
-- We can describe in one sentence what Mamurify sells, to whom, and instead of what.
+- We can describe in one sentence what Own sells, to whom, and instead of what.
 - We can name the first ICP slice for Phase 1 — specific enough that a list of 30 candidate merchants is obvious.
 - We have a working offer (price, what's included, what's not) we're willing to test against design partners.
 

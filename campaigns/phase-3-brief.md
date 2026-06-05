@@ -10,7 +10,7 @@ Industrialize acquisition with predictable channel mix and team-led execution.
 
 ## Core Message
 
-Mamurify is the default infrastructure partner for modern commerce operators in Uzbekistan.
+Own is the default infrastructure partner for modern commerce operators in Uzbekistan.
 
 ## Channels
 

@@ -4,7 +4,7 @@
 
 ## Goal
 
-900 more merchants on top of Phase 2, through channels that operate on a budget-and-targets cadence rather than personal hustle. By the end, Mamurify has a marketing organization, not a founder with a Telegram account.
+900 more merchants on top of Phase 2, through channels that operate on a budget-and-targets cadence rather than personal hustle. By the end, Own has a marketing organization, not a founder with a Telegram account.
 
 ## Motion
 

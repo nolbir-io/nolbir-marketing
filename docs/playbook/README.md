@@ -1,4 +1,4 @@
-# Mamurify Playbook — The Road to 1,000 Merchants
+# Own Playbook — The Road to 1,000 Merchants
 
 A Go-to-Market playbook for building e-commerce infrastructure in Uzbekistan, organized by milestone phase. Read in order.
 
@@ -29,7 +29,7 @@ The marketing-skill folders at the repo root (`brand-voice/`, `campaigns/`, `com
 
 Cross-referenced from every phase file:
 
-- [`../../brand-voice/`](../../brand-voice/) — how Mamurify sounds
+- [`../../brand-voice/`](../../brand-voice/) — how Own sounds
 - [`../../brand-review/`](../../brand-review/) — how content gets checked
 - [`../../campaigns/`](../../campaigns/) — campaign briefs per phase
 - [`../../competitive-analysis/`](../../competitive-analysis/) — market research

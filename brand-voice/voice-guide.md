@@ -1,6 +1,6 @@
 # Voice Guide
 
-Mamurify brand voice standards for external communication.
+Own brand voice standards for external communication.
 
 ## Voice Principles
 
@@ -17,7 +17,7 @@ Mamurify brand voice standards for external communication.
 ## Message Structure
 
 1. Merchant problem in plain language.
-2. How Mamurify solves it.
+2. How Own solves it.
 3. Proof or plausible evidence.
 4. CTA with one clear next action.
 

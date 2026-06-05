@@ -35,7 +35,7 @@
 | Positioning | All-in-one / multichannel / AI-assisted commerce platform |
 | Buyer range | “Anyone from entrepreneurs to enterprise” |
 | Proof style | Named brands, conversion claims, capital products, large app store |
-| Primary tension for Mamurify | **Global platform gravity** vs local implementation reality |
+| Primary tension for Own | **Global platform gravity** vs local implementation reality |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## Strengths and weaknesses (vs Mamurify’s phase)
+## Strengths and weaknesses (vs Own’s phase)
 
 ### Strengths (Shopify today)
 
@@ -71,10 +71,10 @@
 
 ---
 
-## Competitive implications for Mamurify
+## Competitive implications for Own
 
-**Where Shopify is strong vs Mamurify:** Global trust, feature surface, app marketplace, capital and checkout scale.
+**Where Shopify is strong vs Own:** Global trust, feature surface, app marketplace, capital and checkout scale.
 
-**Where Mamurify can be strong vs Shopify (early-phase analogy):** Founder-led **activation** (signed → live → transacting), **local relevance**, and **hands-on onboarding** for a narrow ICP slice.
+**Where Own can be strong vs Shopify (early-phase analogy):** Founder-led **activation** (signed → live → transacting), **local relevance**, and **hands-on onboarding** for a narrow ICP slice.
 
 **Opportunity:** Be the “Snowdevil-era Shopify” for **one geography + one merchant profile** first — operational clarity over feature breadth.

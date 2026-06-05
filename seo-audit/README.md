@@ -1,6 +1,6 @@
 # seo-audit
 
-Search visibility for Mamurify across the queries Uzbek merchants and adjacent audiences actually type.
+Search visibility for Own across the queries Uzbek merchants and adjacent audiences actually type.
 
 ## Purpose
 
@@ -8,9 +8,9 @@ Map the keyword universe in UZ / RU / EN, audit the current site against it, and
 
 ## Key questions to answer
 
-- What does an Uzbek merchant search when they hit the problem Mamurify solves — in Uzbek (Latin? Cyrillic?), in Russian, in English?
+- What does an Uzbek merchant search when they hit the problem Own solves — in Uzbek (Latin? Cyrillic?), in Russian, in English?
 - Who currently ranks for those queries? What does the SERP look like (marketplaces, news, competitor blogs, Telegram channels)?
-- What's the technical state of the existing Mamurify site — crawlability, speed, hreflang, structured data, mobile?
+- What's the technical state of the existing Own site — crawlability, speed, hreflang, structured data, mobile?
 - What's the on-page state — does each priority page have a clear primary keyword, intent match, internal links?
 - Where are the content gaps where ranking is realistic in 6–12 months?
 

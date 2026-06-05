@@ -3,13 +3,13 @@
 **Generated:** 2026-05-09
 **Author of this pass:** desk research via web search + page fetches inside Cursor (no Firecrawl / DataForSEO in this run)
 **Raw sources:** [`raw/_desk-research/2026-05-09/uzbekistan-sources.md`](raw/_desk-research/2026-05-09/uzbekistan-sources.md)
-**For:** Mamurify (see `.agents/product-marketing-context.md`)
+**For:** Own (see `.agents/product-marketing-context.md`)
 
 > Treat numbers as **ranges from public secondary sources**. Different reports (KPMG, ECDB, Statista, Asia-Plus) use different methodologies and years. Validate before quoting externally.
 
 ---
 
-## TL;DR for Mamurify
+## TL;DR for Own
 
 1. **Uzbekistan e-commerce is small but growing fast.** Total online retail moved from ~$311M (2022) to roughly **$1B (2023–2024)** to publicly cited **~$2.6B in 2025**, with KPMG projecting **$1.8–2.2B by 2027** at **~41–47% CAGR**. Online share of retail is still only **~5–10% (2025)** vs ~16% in Russia and ~14% in Kazakhstan — so the headroom is real.
 2. **The market is consolidating around a few platform giants.** Uzum (local unicorn, full ecosystem), Wildberries, Ozon, AliExpress, plus Yandex services in delivery. The Competition Committee has already labelled multiple players “dominant” and is enforcing antitrust compliance.
@@ -19,7 +19,7 @@
 6. **Logistics are oligopolistic.** Uzum Tezkor, Yandex Eats, Express24 (now consolidated with Yandex) and BTS Express dominate. FBS-style models are emerging.
 7. **Regulatory pressure is rising for foreign operators** (12% VAT on B2C digital services since 2020; **Resolution 885** from Dec 2024 requires e-commerce operators to be **Uzbek resident legal entities** from **July 1, 2025**). This **structurally favours local infrastructure**.
 
-**Mamurify’s strategic window:** be the **operational e-commerce backbone for serious local merchants** in the gap between (a) marketplace dependence and (b) DIY Telegram bots / global SaaS that doesn’t fit local rails or rules.
+**Own’s strategic window:** be the **operational e-commerce backbone for serious local merchants** in the gap between (a) marketplace dependence and (b) DIY Telegram bots / global SaaS that doesn’t fit local rails or rules.
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 2. Marketplaces (the “demand side” Mamurify’s merchants depend on)
+## 2. Marketplaces (the “demand side” Own’s merchants depend on)
 
 | Player | Type | Notes (public reporting) |
 |--------|------|--------------------------|
@@ -51,14 +51,14 @@
 | **AliExpress** | Cross-border marketplace | Long-standing inbound demand for cheap goods |
 | **Zoodmall / ZoodPay** | Marketplace + BNPL | Active in 2024 (Q1 NMV +71%, MAU ~800K), but Competition Committee opened a case against ZoodPay; treat status as **monitor closely** |
 
-**Implication for Mamurify:**
+**Implication for Own:**
 - Many merchants will **not abandon marketplaces** — they need them for traffic.
 - Real value lives in **multichannel inventory + order management**: marketplaces *and* own store, including Telegram, with one source of truth.
 - “Independence from Wildberries / Uzum margins” is a credible **emotional pain** for ambitious SMBs.
 
 ---
 
-## 3. Local merchant SaaS / storefront builders (Mamurify’s nearest competitors)
+## 3. Local merchant SaaS / storefront builders (Own’s nearest competitors)
 
 | Platform | Wedge | Notable scale claims (vendor-reported) | Tells us |
 |----------|-------|----------------------------------------|----------|
@@ -69,7 +69,7 @@
 | **Click Business mini-apps** | Storefront via Click SuperApp | Distribution via Click | Demonstrates how payments players bundle commerce |
 | **Botcommerce (IT Park)** | No-code social commerce (Telegram + WhatsApp) | Pandemic-era origin; expansion plans | Confirms social-commerce demand |
 
-**Pattern:** All of these are either (a) **Telegram-first / no-code**, (b) **vertical** (HoReCa), or (c) **bundled with payments**. **None is a serious end-to-end commerce backbone for SMBs scaling to multi-channel + own logistics + ERP-grade ops.** That is the gap Mamurify can credibly own.
+**Pattern:** All of these are either (a) **Telegram-first / no-code**, (b) **vertical** (HoReCa), or (c) **bundled with payments**. **None is a serious end-to-end commerce backbone for SMBs scaling to multi-channel + own logistics + ERP-grade ops.** That is the gap Own can credibly own.
 
 ---
 
@@ -83,7 +83,7 @@
 | International cards | Possible via local acquirers + Stripe-style integrations (e.g. OsonDokon mentions Stripe), but secondary |
 | Settlement | Typically T+1 banking day for Click/Payme |
 
-**Implication for Mamurify:** “Payments out of the box with Click + Payme + UZCARD/HUMO + at least one BNPL” is **table stakes**. Skipping BNPL is a real conversion hole.
+**Implication for Own:** “Payments out of the box with Click + Payme + UZCARD/HUMO + at least one BNPL” is **table stakes**. Skipping BNPL is a real conversion hole.
 
 ---
 
@@ -96,7 +96,7 @@
 | 3PL / fulfilment | **BTS Express** (3PL, 34 settlements, 24/7) |
 | FBS for marketplaces | **Uzum Market FBS** launched Oct 2024 — sellers ship from their own warehouses while Uzum handles storefront and last mile |
 
-**Implication for Mamurify:**
+**Implication for Own:**
 - The **dominance rulings** mean major couriers face antitrust scrutiny — partnerships are possible but pricing power is shifting.
 - A merchant backbone that **abstracts shipping providers** (BTS, Yandex, Uzum, custom couriers) is more defensible than one tied to a single carrier.
 - Multi-warehouse + FBS workflows are now a **legitimate selling point** for tools.
@@ -109,7 +109,7 @@
 - **Resolution 885** (Dec 26, 2024) — from **July 1, 2025**, e-commerce operators (electronic trading platforms, order aggregators) **must be Uzbek resident legal entities**, follow local rules on data, consumer rights and retail trade, and use **separate bank accounts** for e-commerce flows.
 - Self-employed e-commerce sellers will be tracked as **turnover taxpayers** based on account credit data — this raises both compliance burden and demand for **clean financial reporting tooling**.
 
-**Implication for Mamurify:**
+**Implication for Own:**
 - Foreign SaaS (Shopify, BigCommerce, etc.) becomes structurally harder to use as a **system of record** for Uzbek merchants.
 - A **locally registered, locally compliant** infrastructure provider has a defensible position.
 - “We help you stay compliant with the new e-commerce operator rules” is a real selling line, not marketing fluff — verify legal phrasing with counsel before publishing.
@@ -125,7 +125,7 @@
 
 ---
 
-## 8. Competitive map for Mamurify
+## 8. Competitive map for Own
 
 ```
                   Marketplace dependency
@@ -134,9 +134,9 @@
                          │
                   ┌──────┴──────┐
    Telegram-only  │             │   Multi-channel + own ops
-   bots & no-code │             │   (Mamurify’s play)
+   bots & no-code │             │   (Own’s play)
                   │             │
-          Magicstore /          Mamurify (proposed)
+          Magicstore /          Own (proposed)
           Magicbot /            ────────────
           Botcommerce           Robosell (broad/light)
           Robosell (light)      OsonDokon (broad/light, AI)
@@ -147,7 +147,7 @@
                 (now compliance-disadvantaged after Res. 885)
 ```
 
-**Where Mamurify can win:**
+**Where Own can win:**
 - “**Operational backbone** for multichannel SMB commerce in Uzbekistan: own store + Telegram + marketplaces + local payments + local delivery + compliance-ready accounting flows.”
 - Phase 1 ICP (per playbook): **digital-first SMB merchants** who already have a Telegram store and either sell on Wildberries/Uzum or want to.
 

@@ -1,6 +1,6 @@
 # brand-review
 
-Process and rubric for checking that any piece of Mamurify content sounds like Mamurify before it ships.
+Process and rubric for checking that any piece of Own content sounds like Own before it ships.
 
 ## Purpose
 

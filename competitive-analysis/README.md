@@ -1,6 +1,6 @@
 # competitive-analysis
 
-The deep view of who Mamurify competes with — and who shapes the merchant's mental model — in Uzbek e-commerce infrastructure.
+The deep view of who Own competes with — and who shapes the merchant's mental model — in Uzbek e-commerce infrastructure.
 
 ## Purpose
 
@@ -12,12 +12,12 @@ Build and maintain a market map: direct competitors, adjacent players, and the s
 - Who is an *indirect* competitor — marketplaces, payment processors, logistics platforms, SaaS storefronts that solve part of the problem?
 - What's the "do nothing" alternative — what merchants do today instead (Telegram channels, Instagram DMs, listing on a marketplace)?
 - For each: positioning, pricing, traction signals, where they're strong, where they're soft.
-- Which competitor moves should Mamurify react to vs. ignore?
+- Which competitor moves should Own react to vs. ignore?
 
 ## Unknowns — needs playbook
 
 - [unknown] Confirmed list of direct competitors
-- [unknown] How Mamurify positions against marketplaces (with them, around them, against them?)
+- [unknown] How Own positions against marketplaces (with them, around them, against them?)
 - [unknown] Sources of truth — desk research, merchant interviews, ex-employee chats
 - [unknown] Update cadence and ownership
 

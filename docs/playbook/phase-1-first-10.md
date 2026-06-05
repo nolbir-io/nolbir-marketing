@@ -4,7 +4,7 @@
 
 ## Goal
 
-10 merchants live on Mamurify who:
+10 merchants live on Own who:
 
 - Match the Phase 0 ICP exactly.
 - Will tell us the truth, weekly, about what's broken.

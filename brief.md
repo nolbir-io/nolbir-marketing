@@ -1,4 +1,4 @@
-# Mamurify — The Road to 1,000 Merchants
+# Own — The Road to 1,000 Merchants
 
 ### A Go-to-Market Playbook for Building E-Commerce Infrastructure in Uzbekistan
 

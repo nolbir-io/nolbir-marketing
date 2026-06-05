@@ -1,6 +1,6 @@
 # brand-voice
 
-How Mamurify sounds — across languages, channels, and audiences — on the road to 1,000 merchants.
+How Own sounds — across languages, channels, and audiences — on the road to 1,000 merchants.
 
 ## Purpose
 
@@ -8,11 +8,11 @@ Define the voice once so every email, landing page, deck, and social post sounds
 
 ## Key questions to answer
 
-- Who is Mamurify primarily speaking to in this playbook — merchants, payment/logistics partners, regulators, end-buyers? In what order of priority?
+- Who is Own primarily speaking to in this playbook — merchants, payment/logistics partners, regulators, end-buyers? In what order of priority?
 - What's the tone register: founder-direct, professional/institutional, technical/builder, or something else?
 - Language matrix: Uzbek (Latin? Cyrillic? both?), Russian, English. Which language for which audience and channel? What's the code-switching policy?
 - What words, phrases, and framings are explicitly in or out (e.g. "marketplace" vs. "infrastructure," "seller" vs. "merchant")?
-- What's the relationship to founder voice — does Mamurify speak as a company, or through a named founder/operator?
+- What's the relationship to founder voice — does Own speak as a company, or through a named founder/operator?
 
 ## Unknowns — needs playbook
 
@@ -26,4 +26,4 @@ Define the voice once so every email, landing page, deck, and social post sounds
 - `voice-guide.md` — principles, tone, register, examples
 - `language-matrix.md` — which language, which audience, which channel
 - `do-dont-wordlist.md` — preferred terms, banned terms, rationale
-- `examples/` — annotated good/bad samples drawn from real Mamurify copy
+- `examples/` — annotated good/bad samples drawn from real Own copy

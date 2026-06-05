@@ -1,6 +1,6 @@
-# Sales deck — Mamurify (marketplace-escape primary)
+# Sales deck — Own (marketplace-escape primary)
 
-**Version:** v1 (baseline draft)
+**Version:** v1.5 (Bloomberg/Apple voice tightening — see changelog)
 **Date:** 2026-05-10
 **Primary audience:** Established Uzbekistan merchants currently selling primarily through marketplaces (Uzum, Yandex Market, Ozon) who want direct channels and lower marketplace dependency.
 **Secondary use:** General-purpose pitch — usable on a 30-min launch plan call, a 45-min follow-up, or as a 20-min executive leave-behind (see [Tailoring guide](#tailoring-guide) at the end).
@@ -46,14 +46,14 @@
 
 **On-slide text:**
 
-> **Mamurify**
+> **Own**
 > The operating system for Uzbekistan commerce.
 >
-> *Storefront. Telegram. Marketplaces. One platform.*
+> *One platform. Every channel.*
 
 **Visual direction:**
 
-- Clean cover. Mamurify wordmark, large.
+- Clean cover. Own wordmark, large.
 - One tagline. Nothing else.
 - Optional: thin row of partner logo placeholders along the bottom (Humo · Uzcard · BTS Express · Yandex Delivery · Telegram) **only if logo rights are confirmed**. Otherwise text-only.
 
@@ -74,9 +74,9 @@
 
 **Body (3 short bullets, on-slide):**
 
-- Take rate is fixed. Your margin is not.
-- You rent the customer.
-- Channel concentration is the real risk.
+- Fixed take rate. Compressing margin.
+- Rented customers. No second-sale economics.
+- Channel concentration. Single-vendor risk.
 
 **Visual direction:**
 
@@ -99,17 +99,17 @@
 
 **Headline (on-slide):**
 
-> The math that doesn't get better.
+> Three lines that won't trend down.
 
 **Body (on-slide — three columns, large numbers/icons):**
 
 
-| Take rate                                                                                                | Customer ownership                                                                                                     | Channel concentration                                                                                  |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **~20% on every order.**¹ As you scale, COGS, ops, and acquisition all rise. The take rate doesn't fall. | Customer email, history, repurchase data — owned by the marketplace. The next purchase pays an acquisition fee, again. | One policy change, fee bump, or ranking tweak can move revenue by double digits. You don't get a vote. |
+| Take rate                                                                                  | Customer ownership                                                                                            | Channel concentration                                                                                 |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **~20% on every order.**¹ COGS, ops, and CAC all rise with scale. Take rate doesn't budge. | Customer email, order history, repurchase data — owned by the marketplace. Every repeat sale pays CAC, again. | One fee bump or ranking tweak moves revenue by double digits. You don't get a vote on either of them. |
 
 
-¹ *Typical effective commission across Uzum, Yandex Market, and Ozon for the categories most Mamurify prospects sell in. Specific category rates vary; we verify per merchant on the call.*
+¹ *Typical effective commission across Uzum, Yandex Market, and Ozon for the categories most Own prospects sell in. Specific category rates vary; we verify per merchant on the call.*
 
 **Visual direction:**
 
@@ -139,7 +139,7 @@
 
 **Headline (on-slide):**
 
-> Every other way to grow has a fixed cost that doesn't go away.
+> Three growth paths. Three cost curves.
 
 **Body — three-column comparison:**
 
@@ -148,12 +148,12 @@
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Open another physical store**                                         | Rent: from **$15 / m² / month** · Renovation before opening: from **$10 / m² (one-time)** · Utilities: from **$1 / m² / month** · Staff: from **$500 / employee / month**. **A 100 m² shop with 3 staff:** ~**$3,100 / month** before the first sale, plus **$1,000** in setup. | Open ~10–12 hours/day. Every transaction needs a person. Footfall caps at one location's catchment. **To scale, you open another shop — and pay all of it again.**                         |
 | **Add another marketplace listing**                                     | Zero upfront. **~20% on every order, forever.** No customer ownership.                                                                                                                                                                                                          | 24/7. Scales without staff. But the algorithm decides who sees you, and margin shrinks as you scale.                                                                                       |
-| **Open a direct online channel** *(storefront + Telegram, on Mamurify)* | **$200 / month** platform · **$2,000** template onboarding *or* **$10,000** custom · **5%** transaction fee. Hosting + local rails included. Run it from your **existing** ops team — no per-store hires.                                                                       | **24/7. Self-serve checkout. Scales from 100 orders/month to 10,000 without another rent contract or sales team.** Every Uzbek smartphone with a Humo or Uzcard card is a potential buyer. |
+| **Open a direct online channel** *(storefront + Telegram, on Own)* | **$200 / month** platform · **$2,000** template onboarding *or* **$10,000** custom · **5%** transaction fee. Hosting + local rails included. Run it from your **existing** ops team — no per-store hires.                                                                       | **24/7. Self-serve checkout. Scales from 100 orders/month to 10,000 without another rent contract or sales team.** Every Uzbek smartphone with a Humo or Uzcard card is a potential buyer. |
 
 
 **Closing line (large, below the table):**
 
-> Direct online channels are the only growth path where the cost of one more customer trends toward zero — and the storefront sells while you sleep.
+> Direct online: marginal cost trends to zero. The storefront sells while you sleep.
 
 **Visual direction:**
 
@@ -172,7 +172,7 @@
 >
 > **Add another marketplace listing.** Zero upfront, which is why everyone starts there. It's open 24/7, no staffing per order. But you pay take rate on every order forever, and you don't own the customer. We covered that on the last slide.
 >
-> **Open a direct online channel through us.** $200 a month for the platform. $2,000 one-time if you launch on a Mamurify template, $10,000 if you want a custom storefront. 5% on every order. No rent. No renovation. No per-customer capacity ceiling. **Open 24 hours, 7 days a week. Customers self-serve through checkout. Your ops team — the team you already have — runs the storefront, the marketplace orders, and (if you have one) the physical store from one operating system.** Going from 100 orders a month to 10,000 doesn't require another rent contract or another sales team — it's the same software, doing more.
+> **Open a direct online channel through us.** $200 a month for the platform. $2,000 one-time if you launch on a Own template, $10,000 if you want a custom storefront. 5% on every order. No rent. No renovation. No per-customer capacity ceiling. **Open 24 hours, 7 days a week. Customers self-serve through checkout. Your ops team — the team you already have — runs the storefront, the marketplace orders, and (if you have one) the physical store from one operating system.** Going from 100 orders a month to 10,000 doesn't require another rent contract or another sales team — it's the same software, doing more.
 >
 > The math isn't 'is online worth it' anymore. It's 'why would we put the next dollar anywhere else.' We'll get to the exact savings on slide 11."
 
@@ -190,15 +190,15 @@
 
 **Headline (on-slide):**
 
-> Commerce stopped being a website. It's an operating system now.
+> Commerce is no longer a website. It's an operating system.
 
 **Body (on-slide — short):**
 
 > Three things changed at once:
 >
-> **1. Local rails matured.** Humo and Uzcard acquiring, BTS and Yandex Delivery, BNPL, OFD fiscalization — all callable from software, not stitched by hand.
-> **2. Channels multiplied.** Storefront, Telegram, three marketplaces. Each is a real revenue surface. Running them in three admin panels doesn't scale.
-> **3. AI made integrations cheap.** Custom storefronts and connectors that took quarters now take weeks. The window to own your channels is open today and will close.
+> **1. Local rails matured.** Humo, Uzcard, BTS, Yandex, BNPL, OFD — callable from software, not stitched by hand.
+> **2. Channels multiplied.** Storefront, Telegram, three marketplaces. Three admin panels don't scale.
+> **3. AI agents are your next customers.** Ecommerce needs fullstack AI native solutions end-to-end. AI adoption is growing unprecendent level.
 
 **Visual direction:**
 
@@ -222,21 +222,21 @@
 > Marketplaces are *a* channel.
 > Not *the* channel.
 
-**Body (on-slide — two-column "today vs. with Mamurify"):**
+**Body (on-slide — two-column "today vs. with Own"):**
 
 
-| Today (marketplace-first)                   | With Mamurify (operating system)                                                                            |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Marketplaces are *the* channel.             | Marketplaces are *a* channel. Storefront and Telegram are direct channels. Marketplaces sync (per roadmap). |
-| Take rate on every order.                   | Take rate **only on the marketplace share**. Direct orders carry no marketplace fee.                        |
-| The marketplace owns the customer.          | You own the customer record, the order history, the next purchase — across every channel.                   |
-| Three admin panels.                         | One catalog. One inventory pool. One pricing layer.                                                         |
-| Each new channel is an integration project. | Each new channel is a configuration.                                                                        |
+| Today (marketplace-first)                   | With Own (operating system)                                                                |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Marketplaces are *the* channel.             | Marketplaces are *a* channel. Storefront and Telegram, direct. Marketplaces sync (per roadmap). |
+| Take rate on every order.                   | Take rate **on the marketplace share only.** Direct orders carry no marketplace fee.            |
+| The marketplace owns the customer.          | You own the customer. Across every channel.                                                     |
+| Three admin panels.                         | One catalog. One inventory. One pricing layer.                                                  |
+| Each new channel is an integration project. | New channels are configuration, not integration.                                                |
 
 
 **Closing line (large, below the table):**
 
-> Marketplaces sell for you. Mamurify runs your commerce.
+> Marketplaces sell for you. Own runs your commerce.
 
 **Visual direction:**
 
@@ -262,14 +262,14 @@
 
 **Body — four workflows, each one line + a screenshot tile:**
 
-1. **A new SKU goes everywhere automatically.**
-  *Add it once in the catalog. It appears on your storefront, in Telegram, and (per roadmap) on Uzum, Yandex Market, and Ozon.*
-2. **One unified order queue, regardless of channel.**
-  *Pick, pack, and ship from one place. Channel of origin is metadata, not a separate operation.*
-3. **Customers you can actually reach.**
-  *Order history, segments, repurchase signals — in your instance. Email, retarget, reactivate. None of that is possible from a marketplace listing.*
-4. **Local rails wired into checkout.**
-  *Humo and Uzcard cards. BTS and Yandex delivery options inside the checkout, with rates and tracking. BNPL, on the affordability terms Uzbek buyers already expect.*
+1. **One catalog. Every channel.**
+  *Add the SKU once. It appears on your storefront, in Telegram, and (per roadmap) on Uzum, Yandex Market, and Ozon.*
+2. **One order queue.**
+   *ship from one place. Channel of origin is metadata, not a separate operation.*
+3. **Customers you can reach.**
+  *Order history, segments, repurchase signals — in your instance. Email, retarget, reactivate. Impossible from a marketplace listing.*
+4. **Local rails in checkout.**
+  *Humo and Uzcard cards. BTS and Yandex delivery, with rates and tracking. BNPL, on terms Uzbek buyers already expect.*
 
 **Visual direction:**
 
@@ -297,7 +297,7 @@
 
 **Headline (on-slide):**
 
-> The Uzbekistan layer. Wired in. Day one.
+> The Uzbekistan stack. Wired. Day one.
 
 **Body — three columns, simple text labels (no logos unless rights confirmed):**
 
@@ -314,7 +314,7 @@
 
 **Closing line (below the table):**
 
-> A global platform sells you software. A marketplace gives you a listing. Neither delivers this on day one. Neither lets you keep the customer.
+> A global platform sells software. A marketplace sells a listing. Neither delivers Uzbekistan on day one. Neither lets you keep the customer.
 
 **Visual direction:**
 
@@ -344,18 +344,18 @@
 
 **Headline (on-slide):**
 
-> Built by people who've shipped commerce at scale before.
+> Built by operators. Shipped at scale.
 
 **Body (on-slide):**
 
-> Senior software engineers and PMs who previously built and scaled commerce, ad-tech, fin-tech, and platform products at:
+> Senior engineers and PMs who built and scaled commerce, ad-tech, fin-tech, and platform products at:
 >
 > **SAP · Rakuten · Toptal · [+ other prior employers as confirmed]**
 
 **Two short proof bullets:**
 
-- *We've shipped at scale. We know what breaks at 10x volume because we've operated through it.*
-- *We choose architecture, not trends. The foundation we'd pick for any modern commerce stack — with or without the Uzbekistan layer on top.*
+- *Shipped at scale. We know what breaks at 10× volume — we've operated through it.*
+- *Architecture, not trends. The foundation we'd pick for any modern commerce stack.*
 
 **Visual direction:**
 
@@ -383,7 +383,7 @@
 
 **Headline (on-slide):**
 
-> Three checkpoints. You always know where you are.
+> Three stages. No surprises.
 
 **Body — three horizontal columns:**
 
@@ -411,7 +411,7 @@
 >
 > For the prospect: pick a stage you'd want to be in 60 days from this call. We'll back into the plan from there."
 
-**Why this slide:** Owns vocabulary competitors don't use. From `landing-pages/merchant-signup.md` §5. Critical for setting expectations and pre-handling the "when will Uzum sync be live" objection.
+**Why this slide:** Claims vocabulary competitors don't use. From `landing-pages/merchant-signup.md` §5. Critical for setting expectations and pre-handling the "when will Uzum sync be live" objection.
 
 ---
 
@@ -419,17 +419,17 @@
 
 **Headline (on-slide):**
 
-> Direct orders pay 5%, not 20%.
-> Every direct dollar saves you 15¢.
+> 5% direct. 20% marketplace.
+> 15 points of margin, on every direct order.
 
 **Body Part 1 — "What you'll watch monthly" (3-row table):**
 
 
-| What changes                                                                                                            | How you measure it                          |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| **Direct-channel share rises.** Storefront and Telegram start carrying a meaningful % of orders.                        | Direct-order share / total orders, weekly.  |
-| **Customer reactivation becomes possible.** Email, segments, and retargeting reach buyers who'd otherwise be invisible. | Repeat-purchase rate from direct channels.  |
-| **Channel concentration drops.** Top-channel revenue share decreases without total revenue dropping.                    | Top channel as % of total revenue, monthly. |
+| What changes                                                                                      | How you measure it                          |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Direct-channel share rises.** Storefront and Telegram carry meaningful order volume.            | Direct-order share / total orders, weekly.  |
+| **Customer reactivation begins.** Email, segments, retargeting reach previously invisible buyers. | Repeat-purchase rate from direct channels.  |
+| **Concentration drops.** Top-channel share falls; total revenue holds.                            | Top channel as % of total revenue, monthly. |
 
 
 **Body Part 2 — "What the math looks like" (concrete savings):**
@@ -437,18 +437,18 @@
 > **A merchant with $10,000 / month in direct-channel GMV:**
 >
 > - On marketplace pricing (~20%): **$24,000 / year**
-> - On Mamurify (5% + $200/mo): **$8,400 / year**
+> - On Own (5% + $200/mo): **$8,400 / year**
 > - **Savings: $15,600 / year. Template onboarding ($2,000) pays back in ~1.5 months.**
 >
 > **A merchant with $50,000 / month in direct-channel GMV:**
 >
 > - On marketplace pricing: **$120,000 / year**
-> - On Mamurify: **$32,400 / year**
+> - On Own: **$32,400 / year**
 > - **Savings: $87,600 / year. Template onboarding pays back in ~1.5 weeks.**
 
 **Closing line:**
 
-> No invented ROI percentages. Just take-rate math at your real volumes. We'll redo it with your numbers on the call.
+> No invented ROI. Take-rate math at your volumes. We redo it on the call.
 
 **Visual direction:**
 
@@ -470,7 +470,7 @@
 
 **[PROOF — to verify per merchant on the call]:**
 
-- The 20% benchmark is a typical effective rate across the categories most Mamurify prospects sell in. Verify the prospect's specific category take rates before quoting savings — see Appendix A4 footnote.
+- The 20% benchmark is a typical effective rate across the categories most Own prospects sell in. Verify the prospect's specific category take rates before quoting savings — see Appendix A4 footnote.
 - A reference merchant who went from X% direct-channel share to Y% over Z months — `[PROOF — to collect from first design partners]`.
 
 **Why this slide:** ROI without fabrication. The pricing is locked, the marketplace take rate is in the public domain, and the savings math is straightforward arithmetic — no invented improvement percentages required. Investors and CFOs read this slide hardest; honest math at real prices is the differentiator.
@@ -493,7 +493,7 @@
 **Onboarding *(one-time)***
 
 > **$2,000 — Template onboarding**
-> A storefront on a Mamurify template, branded to your business. Live in weeks. Best for merchants who need a direct channel up fast.
+> A storefront on a Own template, branded to your business. Live in weeks. Best for merchants who need a direct channel up fast.
 >
 > **$10,000 — Custom storefront onboarding**
 > A storefront built around your brand and catalog from scratch. Best for merchants whose brand surface *is* the product.
@@ -505,11 +505,11 @@
 
 **Reference line (small, below the card):**
 
-> Marketplaces typically charge **~20%** on every order. Once direct-channel GMV crosses **~$1,333 / month**, you're paying less per order on Mamurify than a marketplace would charge. Above that, every additional dollar of direct GMV saves you 15¢ in commission.
+> Marketplace take rate: ~~20%. Own break-even: **~~$1,333/mo direct GMV.** Above that, every direct dollar saves 15¢ in commission.
 
 **Closing line:**
 
-> No surprise fees. No tiered commission climb. Quoted in writing on the launch plan call, against your real volumes and category.
+> No surprise fees. No tiered escalator. Quoted in writing on the launch plan call.
 
 **Visual direction:**
 
@@ -544,14 +544,13 @@
 
 **Headline (on-slide):**
 
-> One call. You leave with a written launch plan.
-> No commitment to move forward.
+> One call. One written plan. No commitment.
 
 **Body — three short reassurances + the CTA:**
 
-- **30 minutes.** We learn what you sell, where you sell, and what's in your way.
-- **You leave with a plan.** Channels, stages, owners, dates. Built around your business, not a template. Yours to keep — even if you don't move forward with us.
-- **We follow up only if it's a fit.** Your information stays between us.
+- **30 minutes.** What you sell. Where you sell. What's in the way.
+- **A written plan.** Channels, stages, owners, dates. Built around your business. Yours to keep.
+- **Follow-up only if it's a fit.** Your information stays between us.
 
 **CTA box (large, brand color):**
 
@@ -584,11 +583,11 @@
 **Body — five rows, lifted from `landing-pages/merchant-signup.md` §10 (the most-tested comparison copy you have):**
 
 
-| If you're considering...                                                       | What it gets right                               | Where merchants get stuck                                                                                                                                                                                             | Where Mamurify fits                                                                                                                  |
+| If you're considering...                                                       | What it gets right                               | Where merchants get stuck                                                                                                                                                                                             | Where Own fits                                                                                                                  |
 | ------------------------------------------------------------------------------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Selling only through marketplaces** (Uzum, Yandex Market, Ozon)              | Built-in distribution. No infrastructure to run. | Take rate on every order. No customer ownership. No brand surface. Channel concentration risk.                                                                                                                        | Keep marketplaces in your channel mix (we sync, per roadmap). Add direct channels so the next order doesn't carry a marketplace fee. |
 | **A global SaaS platform** (Shopify, BigCommerce)                              | Strong product. Big template library.            | No native Humo/Uzcard, BTS/Yandex Delivery, OFD fiscalization, in-country data residency, Telegram, or Uzbekistan-marketplace sync. Months of integration per gap.                                                    | All of the above is wired in. Modular foundation underneath — local fit *and* platform maturity.                                     |
-| **Open-source / DIY** (WooCommerce, Magento, raw MedusaJS, build-from-scratch) | Full control. Low license cost.                  | Real cost shows up in implementation, security, hosting, fiscalization, and integration work that doesn't end. **Minimum 6-person engineering team in Tashkent ≈ $15–20k/month in salaries alone — see Appendix A5.** | Mamurify *is* commerce plus the local layer, hosting, compliance, and onboarding. Same control. None of the integration burden.      |
+| **Open-source / DIY** (WooCommerce, Magento, raw MedusaJS, build-from-scratch) | Full control. Low license cost.                  | Real cost shows up in implementation, security, hosting, fiscalization, and integration work that doesn't end. **Minimum 6-person engineering team in Tashkent ≈ $15–20k/month in salaries alone — see Appendix A5.** | Own *is* commerce plus the local layer, hosting, compliance, and onboarding. Same control. None of the integration burden.      |
 | **Local point solutions** (one for payments, one for delivery, etc.)           | Each tool solves one pain well.                  | No single owner of "did we actually launch." No one stitching the pieces.                                                                                                                                             | One operating system. One owner. You stop being the integrator.                                                                      |
 | **An agency build**                                                            | A custom-fit site, in theory.                    | Long timelines. High cost. Vendor lock-in. No clear handover.                                                                                                                                                         | Days, not quarters. On a platform that already has the local rails. Handed to your team to run.                                      |
 
@@ -607,7 +606,7 @@
 
 **Headline:**
 
-> A modular, headless commerce foundation. Extended for Uzbekistan.
+> Modular. Headless. Extended for Uzbekistan.
 
 **Body — three columns:**
 
@@ -677,20 +676,20 @@
 
 **Headline (on-slide):**
 
-> When direct online becomes cheaper than the marketplace.
+> Break-even and payback. At your volume.
 
 **Body Part 1 — the formula (small, top of slide):**
 
-> **Mamurify monthly cost** = $200 platform + 5% × direct GMV
+> **Own monthly cost** = $200 platform + 5% × direct GMV
 > **Marketplace monthly cost (on the same orders)** = ~20% × direct GMV
 >
-> Mamurify wins when **monthly direct GMV > ~$1,333.**
+> Own wins when **monthly direct GMV > ~$1,333.**
 > Above that, every additional $1 of direct GMV saves you **$0.15** in commission.
 
 **Body Part 2 — savings & payback table (the load-bearing part):**
 
 
-| Direct GMV / month | Marketplace cost (20% / yr) | Mamurify cost (5% + $200/mo / yr) | Annual savings      | Template payback ($2k) | Custom payback ($10k) |
+| Direct GMV / month | Marketplace cost (20% / yr) | Own cost (5% + $200/mo / yr) | Annual savings      | Template payback ($2k) | Custom payback ($10k) |
 | ------------------ | --------------------------- | --------------------------------- | ------------------- | ---------------------- | --------------------- |
 | $1,333             | $3,200                      | $3,200                            | **$0 (break-even)** | n/a                    | n/a                   |
 | $5,000             | $12,000                     | $5,400                            | **$6,600**          | ~3.6 months            | ~18 months            |
@@ -702,7 +701,7 @@
 
 **Closing line:**
 
-> These savings are on the **share** of orders you route through direct channels. Marketplaces stay in your channel mix — and you compound the savings as direct share grows.
+> Savings apply to the direct-channel **share**. Marketplaces stay in your mix. Savings compound as direct share grows.
 
 **Visual direction:**
 
@@ -728,7 +727,7 @@
   - Uzum take rates vary roughly **8–25%** by category.
   - Yandex Market: roughly **1–15%** by category and seller tier.
   - Ozon: roughly **4–25%** by category.
-  - The "20%" rate used in this deck reflects the typical effective blended rate for the apparel/accessories/household-goods categories most Mamurify prospects operate in. *Source: founders' market knowledge — `[PROOF — verify against current marketplace public-fee schedules; refresh annually]`.*
+  - The "20%" rate used in this deck reflects the typical effective blended rate for the apparel/accessories/household-goods categories most Own prospects operate in. *Source: founders' market knowledge — `[PROOF — verify against current marketplace public-fee schedules; refresh annually]`.*
 - The crossover and payback math assumes the prospect's effective take rate is 20%. If their category take rate is lower, the crossover GMV rises. The Excel/Sheets calculation: *crossover = $200 / (their take rate − 5%)*. Walk through that formula on the call if asked.
 
 **Why appendix:** This is the slide that closes the CFO. It's an appendix, not a core slide, because it's only useful when the prospect leans into ROI math — but when they do, this slide saves you from opening a spreadsheet on a screen-share. Most competitor decks skip this kind of math entirely or fake the percentages. You can show your math because your pricing is published.
@@ -743,7 +742,7 @@
 
 > What "we'll build it ourselves" actually costs.
 
-**Body Part 1 — minimum viable team to ship and operate Mamurify-equivalent infrastructure:**
+**Body Part 1 — minimum viable team to ship and operate Own-equivalent infrastructure:**
 
 
 | Role                          | Why you need them                                                          |
@@ -761,7 +760,7 @@
 >
 > **Excludes:** equity, payroll taxes, benefits, recruiter fees, equipment, office, software licenses, infrastructure (hosting, DBs, monitoring), security audits, fiscalization compliance work, integration partner negotiation, and the **6–12 months** between "first hire" and "first transaction."
 >
-> **Compared to Mamurify: $200 / month platform.**
+> **Compared to Own: $200 / month platform.**
 > **≈ 75–100× the monthly burn before a single line of Uzbekistan-specific code is shipped.**
 
 ¹ *Estimated total monthly compensation for a 6-person commerce engineering team in Tashkent at current market rates. Source: founders' direct hiring experience. [PROOF — verify against current Tashkent engineering salary surveys before sending externally.]*
@@ -778,7 +777,7 @@
 
 **Closing line:**
 
-> Building commerce is a 12-to-24-month, multi-million-dollar project. Not a quarter's worth of work. Mamurify is the result of that project, available on a $200/month subscription.
+> Building commerce: 12–24 months. Multi-million-dollar project. Own is the finished project. $200/month.
 
 **Visual direction:**
 
@@ -832,7 +831,7 @@ This deck works as a general-purpose pitch — **with these light edits per use 
 - **Drop:** Slides 3 (interactive — no value as a leave-behind), 5 (qualitative, weakens without a presenter), 7 (looks weak without a presenter).
 - **Why include slides 4, 11, 12:** Concrete numbers carry themselves on paper. CFO / economic buyer reads slides 4, 11, and 12 first.
 - **Optional:** Append A4 (commission math) for the deputy to dig into before forwarding to the CEO/CFO.
-- **Add:** Append the [Mamurify one-pager](TODO — build) for the executive's deputy to skim.
+- **Add:** Append the [Own one-pager](TODO — build) for the executive's deputy to skim.
 
 ### Persona overlays
 
@@ -856,7 +855,7 @@ This deck works as a general-purpose pitch — **with these light edits per use 
 | Marketplace integration target quarters (Uzum, Yandex Market, Ozon)                                                              | 8, A3, FAQ        | Engineering                                 | Open per `landing-pages/merchant-signup.md` §455                                                                                                                                                                                                                                                            |
 | Founder names + prior employer accuracy                                                                                          | 9                 | Founders                                    | Open per `landing-pages/merchant-signup.md` §458                                                                                                                                                                                                                                                            |
 | Real product screenshots (admin, order queue, customer view, checkout, Telegram flow)                                            | 7                 | Product                                     | Open per `landing-pages/merchant-signup.md` §467                                                                                                                                                                                                                                                            |
-| Sample commission-vs-Mamurify cost math                                                                                          | 3, 11, 12, A4     | Founders                                    | **Closed in v1.3 — pricing now published; sample math computed at $5k/$10k/$25k/$50k/$100k volumes in slide 11 and Appendix A4.**                                                                                                                                                                           |
+| Sample commission-vs-Own cost math                                                                                          | 3, 11, 12, A4     | Founders                                    | **Closed in v1.3 — pricing now published; sample math computed at $5k/$10k/$25k/$50k/$100k volumes in slide 11 and Appendix A4.**                                                                                                                                                                           |
 | Published pricing on slide 12                                                                                                    | 12                | Founders                                    | **Closed in v1.3 — $200/mo platform · $2k template / $10k custom onboarding · 5% transaction.** Confirm pricing is final before sending unattended.                                                                                                                                                         |
 | **20% marketplace take-rate benchmark — verify per category**                                                                    | **3, 11, 12, A4** | **Founders + market research**              | **Open — verify against current Uzum / Yandex Market / Ozon public fee schedules; cite source in A4 footnote; refresh annually. Per category: Uzum 8–25%, Yandex Market 1–15%, Ozon 4–25%. The 20% figure reflects the typical effective blended rate for apparel/accessories/household-goods categories.** |
 | **Pass-through fees disclosure** (Humo/Uzcard processing, BNPL provider fees)                                                    | **12**            | **Founders + Finance**                      | **Open — confirm whether the "platform fee includes all local rails" line covers third-party processing pass-throughs. Disclose any if they exist.**                                                                                                                                                        |
@@ -888,12 +887,13 @@ This deck works as a general-purpose pitch — **with these light edits per use 
 ## Changelog
 
 
-| Date       | Author                  | What changed                                                  | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------- | ----------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-05-10 | (drafted by agent)      | v1 baseline                                                   | First version — grounded in `landing-pages/merchant-signup.md` v1, `.agents/product-marketing-context.md`, and `competitor-profiles/_summary.md`. Marketplace-escape primary; general-purpose use.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 2026-05-10 | (founder input + agent) | v1.1 — added Slide 4 "The store you don't have to open"       | Adds the economic case for direct online vs. physical retail expansion using founder-supplied Tashkent floor prices (rent $15/m², renovation $10/m², utilities $1/m², staff $500/employee). Expands the cost case beyond marketplace-only economics; broadens utility for retail-operating prospects; gives CFO/economic-buyer persona a concrete numbers-led slide. Slide cap raised 12 → 13. Cost figures marked `[PROOF — verify]` until validated against 2 external sources.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 2026-05-10 | (founder input + agent) | v1.2 — strengthened Slide 4 with hours / self-serve / scaling | Added the structural argument alongside cost: physical retail is bound by operating hours (~10–12 h/day), per-transaction staffing, and a geographic catchment ceiling — none of which scale; you duplicate to grow. Direct online channels are 24/7, self-serve, and scale on the same software. Reframed the third column from "Capacity ceiling" to "Hours, staffing & scaling," updated speaker notes, and added the punchline "the storefront sells while you sleep."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 2026-05-10 | (founder input + agent) | v1.3 — locked transparent pricing across the deck             | Founder confirmed pricing: **$200/mo platform · $2k template onboarding / $10k custom onboarding · 5% transaction fee · vs. ~20% marketplace take rate.** Major changes: (1) Slide 3 now names the 20% take rate explicitly with category footnote; (2) Slide 4's direct-online column carries the actual price; (3) Slide 11 rewritten with concrete savings math at $10k/mo and $50k/mo direct GMV; (4) Slide 12 fully rewritten as a transparent pricing card replacing "we'll scope it" copy; (5) **NEW Appendix A4** added with full break-even & payback table at common volumes ($5k → $100k/mo); (6) Tailoring guide updated — Slide 12 now leave-behind safe; (7) Persona overlay rewritten — economic buyer's deck path is now problem → cost → pricing → savings → break-even table. Closed proof items: "sample commission-vs-Mamurify cost math" + "published 'starts at $X'." Added open items: 20% benchmark verification per category, pass-through fees disclosure. Slide cap (core) unchanged at 13; appendix expanded 3 → 4.                                           |
-| 2026-05-10 | (founder input + agent) | v1.4 — added build-vs-buy appendix (A5)                       | Founder supplied the make-vs-buy economics: minimum 6-person commerce engineering team (1 PM, 1 lead, 2 senior, 2 mid) at **$15–20k/month in salaries alone** in Tashkent. Major changes: (1) **NEW Appendix A5** "Build vs. buy: the real cost of in-house commerce" added — handles the most common engineering-led objection ("we could just build this") with concrete team composition, salary range, and the **75–100× monthly burn ratio** vs. Mamurify's $200/mo platform fee; (2) Appendix A1 open-source/DIY row tightened to reference the $15–20k/mo team-cost figure with cross-link to A5; (3) Tailoring guide updated — A5 surfaced for technical-buyer follow-ups and for CFOs (the burn-ratio math is finance-friendly); (4) Persona overlay rewritten — technical buyer's path is now A2 (architecture) + A5 (build cost) as a paired evaluation; CFO path adds A5 as the build-vs-buy closer. Added open item: in-house build team salary verification against current Tashkent engineering salary surveys. Slide cap (core) unchanged at 13; appendix expanded 4 → 5. |
+| Date       | Author                  | What changed                                                  | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------- | ----------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-05-10 | (drafted by agent)      | v1 baseline                                                   | First version — grounded in `landing-pages/merchant-signup.md` v1, `.agents/product-marketing-context.md`, and `competitor-profiles/_summary.md`. Marketplace-escape primary; general-purpose use.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2026-05-10 | (founder input + agent) | v1.1 — added Slide 4 "The store you don't have to open"       | Adds the economic case for direct online vs. physical retail expansion using founder-supplied Tashkent floor prices (rent $15/m², renovation $10/m², utilities $1/m², staff $500/employee). Expands the cost case beyond marketplace-only economics; broadens utility for retail-operating prospects; gives CFO/economic-buyer persona a concrete numbers-led slide. Slide cap raised 12 → 13. Cost figures marked `[PROOF — verify]` until validated against 2 external sources.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 2026-05-10 | (founder input + agent) | v1.2 — strengthened Slide 4 with hours / self-serve / scaling | Added the structural argument alongside cost: physical retail is bound by operating hours (~10–12 h/day), per-transaction staffing, and a geographic catchment ceiling — none of which scale; you duplicate to grow. Direct online channels are 24/7, self-serve, and scale on the same software. Reframed the third column from "Capacity ceiling" to "Hours, staffing & scaling," updated speaker notes, and added the punchline "the storefront sells while you sleep."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2026-05-10 | (founder input + agent) | v1.3 — locked transparent pricing across the deck             | Founder confirmed pricing: **$200/mo platform · $2k template onboarding / $10k custom onboarding · 5% transaction fee · vs. ~20% marketplace take rate.** Major changes: (1) Slide 3 now names the 20% take rate explicitly with category footnote; (2) Slide 4's direct-online column carries the actual price; (3) Slide 11 rewritten with concrete savings math at $10k/mo and $50k/mo direct GMV; (4) Slide 12 fully rewritten as a transparent pricing card replacing "we'll scope it" copy; (5) **NEW Appendix A4** added with full break-even & payback table at common volumes ($5k → $100k/mo); (6) Tailoring guide updated — Slide 12 now leave-behind safe; (7) Persona overlay rewritten — economic buyer's deck path is now problem → cost → pricing → savings → break-even table. Closed proof items: "sample commission-vs-Own cost math" + "published 'starts at $X'." Added open items: 20% benchmark verification per category, pass-through fees disclosure. Slide cap (core) unchanged at 13; appendix expanded 3 → 4.                                                                                                                                                                                                                                                                            |
+| 2026-05-10 | (founder input + agent) | v1.4 — added build-vs-buy appendix (A5)                       | Founder supplied the make-vs-buy economics: minimum 6-person commerce engineering team (1 PM, 1 lead, 2 senior, 2 mid) at **$15–20k/month in salaries alone** in Tashkent. Major changes: (1) **NEW Appendix A5** "Build vs. buy: the real cost of in-house commerce" added — handles the most common engineering-led objection ("we could just build this") with concrete team composition, salary range, and the **75–100× monthly burn ratio** vs. Own's $200/mo platform fee; (2) Appendix A1 open-source/DIY row tightened to reference the $15–20k/mo team-cost figure with cross-link to A5; (3) Tailoring guide updated — A5 surfaced for technical-buyer follow-ups and for CFOs (the burn-ratio math is finance-friendly); (4) Persona overlay rewritten — technical buyer's path is now A2 (architecture) + A5 (build cost) as a paired evaluation; CFO path adds A5 as the build-vs-buy closer. Added open item: in-house build team salary verification against current Tashkent engineering salary surveys. Slide cap (core) unchanged at 13; appendix expanded 4 → 5.                                                                                                                                                                                                                                  |
+| 2026-05-10 | (founder input + agent) | v1.5 — Bloomberg/Apple voice tightening across on-slide copy  | Founder feedback: tighten on-slide language toward Bloomberg precision (numbers up front, terms business already knows — take rate, CAC, GMV, break-even, marginal cost) and Apple minimalism (every word load-bearing, declarative cadence, no connective tissue). Edits are surgical, on-slide only — speaker notes left conversational so they sound human spoken aloud. Headline rewrites: S1 subline ("One platform. Every channel."), S3 ("Three lines that won't trend down."), S4 ("Three growth paths. Three cost curves."), S5 ("Commerce is no longer a website. It's an operating system."), S8 ("The Uzbekistan stack. Wired. Day one."), S9 ("Built by operators. Shipped at scale."), S10 ("Three stages. No surprises."), S11 ("5% direct. 20% marketplace. 15 points of margin, on every direct order."), S13 ("One call. One written plan. No commitment."), A2 ("Modular. Headless. Extended for Uzbekistan."), A4 ("Break-even and payback. At your volume."). Body tightening: S2 bullets restated as Bloomberg fragments; S6 right column compressed; S7 workflow titles shortened to billboard length; S11 watch-list cells trimmed; closing lines on S4, S8, S11, S12, A4, A5 each rewritten ~30–50% shorter. No content removed; positioning, math, and proof are unchanged. Slide cap unchanged. |
 
 

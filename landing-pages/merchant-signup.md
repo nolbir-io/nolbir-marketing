@@ -8,7 +8,7 @@
 - **Secondary:** Mid-market and enterprise merchants modernizing their commerce stack — CTOs, heads of e-commerce, ops/operations leads.
 - **Tertiary:** Digital-first SMBs with clear near-term intent to launch online.
 **Traffic assumption:** Cold + warm. Many visitors are running real revenue today (mostly through marketplaces) and are evaluating whether to invest in their own commerce infrastructure.
-**Positioning:** Mamurify is the **operating system for Uzbekistan e-commerce** — not a marketplace replacement. We add direct channels (custom storefront, Telegram) to your marketplace presence, then unify orders, inventory, customers, payments, and compliance behind one platform.
+**Positioning:** Own is the **operating system for Uzbekistan e-commerce** — not a marketplace replacement. We add direct channels (custom storefront, Telegram) to your marketplace presence, then unify orders, inventory, customers, payments, and compliance behind one platform.
 **Source-of-truth context:** `.agents/product-marketing-context.md`, `competitor-profiles/_summary.md`
 **Translation:** Uzbek primary, Russian secondary per `brand-voice/language-matrix.md`. Mirror headline + CTAs first.
 
@@ -18,11 +18,11 @@
 
 ## Page meta
 
-- **Title tag:** Mamurify — The operating system for Uzbekistan commerce
+- **Title tag:** Own — The operating system for Uzbekistan commerce
 - **Meta description:** Sell on your storefront, on Telegram, and across Uzbekistan's marketplaces — from one platform. Humo and Uzcard acquiring, BTS and Yandex delivery, BNPL, fiscalization, and in-country data residency, included. Built by senior engineers from SAP, Rakuten, and Toptal.
 - **OG headline:** Stop renting your commerce. Own the operating system.
 
-> **Naming note:** Brand name standardized to **Mamurify** throughout (resolves prior inconsistency between title tag and body — open item 17). Confirm with founder before publish.
+> **Naming note:** Brand name standardized to **Own** throughout (resolves prior inconsistency between title tag and body — open item 17). Confirm with founder before publish.
 
 ---
 
@@ -123,11 +123,11 @@ Now the questions every operator eventually asks:
 We're not replacing marketplaces. We're making sure you don't depend on them.
 
 **Lede:**
-Mamurify is the operating system for your commerce. Marketplaces stay in your channel mix — they're a good way to acquire customers. Your storefront, your Telegram presence, your payments, your delivery, your inventory, your customer data, and your back office sit on a platform you control.
+Own is the operating system for your commerce. Marketplaces stay in your channel mix — they're a good way to acquire customers. Your storefront, your Telegram presence, your payments, your delivery, your inventory, your customer data, and your back office sit on a platform you control.
 
 **Three-column "what changes" block:**
 
-| Today (marketplace-first) | With Mamurify (operating system) |
+| Today (marketplace-first) | With Own (operating system) |
 |---|---|
 | Marketplaces are *the* channel. | Marketplaces are *a* channel. Storefront, Telegram, Uzum, Yandex Market, and Ozon — all from one platform. |
 | Take rate on every order. | Take rate only on the marketplace share. Direct orders carry no marketplace fee. |
@@ -136,13 +136,13 @@ Mamurify is the operating system for your commerce. Marketplaces stay in your ch
 | Every new channel is another integration project. | Every new channel is a configuration. Not a re-platform. |
 
 **Closing line:**
-Marketplaces sell for you. Mamurify runs your commerce.
+Marketplaces sell for you. Own runs your commerce.
 
 **Why this section:** This is the load-bearing positioning section. It names the strategic shift the page is selling — from marketplace dependency to platform ownership — without trash-talking marketplaces (which the audience uses today and likely will keep using). The "marketplaces are *a* channel, not *the* channel" line is the one-liner the rest of the page should reinforce.
 
 ---
 
-## 5. The activation arc (Mamurify's POV)
+## 5. The activation arc (Own's POV)
 
 **Section header:**
 Three stages. Signed. Live. Transacting.
@@ -152,7 +152,7 @@ Most platforms stop measuring at signup. We don't. Three checkpoints decide whet
 
 **Three-column block:**
 
-| Stage | What it means | What Mamurify does |
+| Stage | What it means | What Own does |
 |---|---|---|
 | **1. Signed** | Scope is agreed. You know which channels are launching, by when, and who owns each piece. | We map storefront, marketplaces, payments, logistics, and content into one launch plan — with dates and owners. |
 | **2. Live** | The operating system is operational. Direct channels (storefront, Telegram) are taking real orders. Marketplace channels (when in scope) are syncing catalog and orders correctly. | We onboard with you — storefront, channels, payments, logistics, language — until orders flow end to end. |
@@ -161,14 +161,14 @@ Most platforms stop measuring at signup. We don't. Three checkpoints decide whet
 **Closing line:**
 You always know which stage you're in, what's next, and what's blocking it — per channel.
 
-**Why this section:** Owns vocabulary competitors don't use. Updated to make clear that "live" and "transacting" apply across channels, not just a single store, which fits the new operating-system positioning.
+**Why this section:** Claims vocabulary competitors don't use. Updated to make clear that "live" and "transacting" apply across channels, not just a single store, which fits the new operating-system positioning.
 
 ---
 
 ## 6. What you get (benefits)
 
 **Section header:**
-What changes when you run on Mamurify.
+What changes when you run on Own.
 
 **Four benefit blocks (headline + 1–2 sentence body each):**
 
@@ -224,7 +224,7 @@ No long discovery. No surprises in week six. From first call to first transactio
 Channels, commerce, and the local rails. One platform.
 
 **Lede:**
-Mamurify ships with the channels, commerce primitives, and local infrastructure to run end to end on day one. Modular, headless architecture underneath — extended with the integrations no global platform delivers out of the box.
+Own ships with the channels, commerce primitives, and local infrastructure to run end to end on day one. Modular, headless architecture underneath — extended with the integrations no global platform delivers out of the box.
 
 **Capabilities table — Channels:**
 
@@ -263,7 +263,7 @@ Mamurify ships with the channels, commerce primitives, and local infrastructure 
 **Closing line:**
 A global platform sells you software. A marketplace gives you a listing. Neither delivers this full stack on day one. Neither lets you keep the customer.
 
-**Why this section:** This is the page's load-bearing differentiation. Splitting the table into **Channels / Commerce / Local rails** makes the operating-system framing concrete — visitors see at a glance that Mamurify is a real commerce platform, not just a local payments wrapper. The "Status" column on channels keeps us honest about what's live vs. roadmap (critical for enterprise trust). The closing line names both alternatives explicitly (global platforms and marketplaces) without trash-talking either.
+**Why this section:** This is the page's load-bearing differentiation. Splitting the table into **Channels / Commerce / Local rails** makes the operating-system framing concrete — visitors see at a glance that Own is a real commerce platform, not just a local payments wrapper. The "Status" column on channels keeps us honest about what's live vs. roadmap (critical for enterprise trust). The closing line names both alternatives explicitly (global platforms and marketplaces) without trash-talking either.
 
 ---
 
@@ -273,7 +273,7 @@ A global platform sells you software. A marketplace gives you a listing. Neither
 A modern commerce foundation. Extended for Uzbekistan.
 
 **Lede:**
-Mamurify is a modular, headless commerce platform. We didn't reinvent the primitives. We took a battle-tested foundation and extended it with the channels, integrations, and compliance layer Uzbekistan merchants actually need.
+Own is a modular, headless commerce platform. We didn't reinvent the primitives. We took a battle-tested foundation and extended it with the channels, integrations, and compliance layer Uzbekistan merchants actually need.
 
 **Why it matters to your engineering and IT team:**
 
@@ -282,7 +282,7 @@ Mamurify is a modular, headless commerce platform. We didn't reinvent the primit
 - **API-first.** Every primitive — products, orders, customers, inventory, promotions — over a clean API. Integrate ERP, CRM, BI, ops tooling. Anything you already run.
 - **Extensible.** Custom workflows. Custom modules. Custom fields. We don't wait for a vendor roadmap to ship what your business needs.
 
-**What Mamurify adds on top:**
+**What Own adds on top:**
 
 The Uzbekistan layer — Humo and Uzcard acquiring, BTS Express and Yandex Delivery, BNPL, OFD fiscalization, local-law compliance, in-country data residency, Uzbek/Russian/English localization, custom storefront templates, the Telegram channel, and (on the roadmap) Uzum, Yandex Market, and Ozon sync.
 
@@ -298,11 +298,11 @@ What about the other options?
 
 **Treatment:** A five-row comparison table. Honest, not defensive. Names categories, not specific competitors except where the audience already names them.
 
-| If you're considering... | What it gets right | Where merchants get stuck | Where Mamurify fits |
+| If you're considering... | What it gets right | Where merchants get stuck | Where Own fits |
 |---|---|---|---|
 | **Selling only through marketplaces** (Uzum, Yandex Market, Ozon) | Built-in distribution. No infrastructure to run. | Take rate on every order. No customer ownership. No brand surface. Channel concentration risk. | Keep marketplaces in your channel mix (we sync — see roadmap). Add direct channels so the next order doesn't carry a marketplace fee. |
 | **A global SaaS platform** (Shopify, BigCommerce, etc.) | Strong product. Big template library. | No native Humo/Uzcard, no BTS/Yandex Delivery, no OFD fiscalization, no in-country data residency, no Telegram, no Uzbekistan-marketplace sync. Months of integration work per gap. | All of the above is wired in. Modular foundation underneath — local fit *and* platform maturity. |
-| **Open-source / DIY** (WooCommerce, Magento, raw MedusaJS, etc.) | Full control. Low license cost. | Real cost shows up in implementation, security, hosting, fiscalization, and integration work that doesn't end. | Mamurify *is* commerce plus the local layer, hosting, compliance, and onboarding. Same control. None of the integration burden. |
+| **Open-source / DIY** (WooCommerce, Magento, raw MedusaJS, etc.) | Full control. Low license cost. | Real cost shows up in implementation, security, hosting, fiscalization, and integration work that doesn't end. | Own *is* commerce plus the local layer, hosting, compliance, and onboarding. Same control. None of the integration burden. |
 | **Local point solutions** (one for payments, one for delivery, one for catalog…) | Each tool solves one pain well. | No single owner of "did we actually launch." No one stitching Humo/Uzcard, BTS/Yandex, BNPL, fiscalization, and Telegram into a working store. | One operating system. One owner. You stop being the integrator. |
 | **An agency build** | A custom-fit site, in theory. | Long timelines. High cost. Vendor lock-in. No clear handover. Local rails integrated from scratch every project. | Days, not quarters. On a platform that already has the local rails. Handed to your team to run. |
 
@@ -313,7 +313,7 @@ What about the other options?
 ## 11. Who this is (and isn't) for
 
 **Section header:**
-Is Mamurify right for your business?
+Is Own right for your business?
 
 **Two columns:**
 
@@ -337,7 +337,7 @@ Is Mamurify right for your business?
 ## 12. Built by
 
 **Section header:**
-The team behind Mamurify.
+The team behind Own.
 
 **Lede:**
 Senior software engineers and product managers who previously built and scaled commerce, ad-tech, fin-tech, and platform products at **SAP**, **Rakuten**, and **Toptal**.
@@ -351,9 +351,9 @@ Senior software engineers and product managers who previously built and scaled c
 **Treatment options:**
 Logo strip of the prior employers (SAP, Rakuten, Toptal, +) with the lede above. Cleanest visual.
 
-`[PROOF — to confirm: which prior employers are accurate for the team currently shipping Mamurify. Per the copywriting skill: only name companies where team members actually worked, in roles material to commerce / platform / engineering. Avoid "ex-" claims that are hard to substantiate. Get logo usage rights or use text-only treatment.]`
+`[PROOF — to confirm: which prior employers are accurate for the team currently shipping Own. Per the copywriting skill: only name companies where team members actually worked, in roles material to commerce / platform / engineering. Avoid "ex-" claims that are hard to substantiate. Get logo usage rights or use text-only treatment.]`
 
-**Why this section:** Team credibility is one of the few proof points Mamurify has *today* (no merchant logos or revenue stats yet — those are still `[to-collect]`). For the new primary audience — established merchants and enterprise buyers — knowing the platform is built by senior people from credible companies materially de-risks the decision.
+**Why this section:** Team credibility is one of the few proof points Own has *today* (no merchant logos or revenue stats yet — those are still `[to-collect]`). For the new primary audience — established merchants and enterprise buyers — knowing the platform is built by senior people from credible companies materially de-risks the decision.
 
 ---
 
@@ -366,10 +366,10 @@ Questions merchants ask before we start.
 A: Depends on what you're launching. Most merchants reach "live" on direct channels (storefront, Telegram) in weeks, not months. Marketplace integrations follow the published roadmap. We agree the timeline on the launch plan call — before you commit.
 
 **Q: What does this cost? How does it compare to marketplace take rate?**
-A: We scope and price per merchant based on the channels and work involved. For most established merchants on Uzum/Yandex Market/Ozon, the math improves once direct-channel volume crosses a threshold — direct orders carry no marketplace fee. We'll model it with you on the call. `[PROOF — to collect: published starting price or "from $X" once pricing is set, plus a sample take-rate-vs-Mamurify cost comparison.]`
+A: We scope and price per merchant based on the channels and work involved. For most established merchants on Uzum/Yandex Market/Ozon, the math improves once direct-channel volume crosses a threshold — direct orders carry no marketplace fee. We'll model it with you on the call. `[PROOF — to collect: published starting price or "from $X" once pricing is set, plus a sample take-rate-vs-Own cost comparison.]`
 
 **Q: Do you replace marketplaces?**
-A: No. Marketplaces stay in your channel mix — they're a good way to acquire new customers. Mamurify makes sure they're not the *only* channel you depend on, and (on the roadmap) syncs your catalog and orders so you stop running them as a separate operation.
+A: No. Marketplaces stay in your channel mix — they're a good way to acquire new customers. Own makes sure they're not the *only* channel you depend on, and (on the roadmap) syncs your catalog and orders so you stop running them as a separate operation.
 
 **Q: When will Uzum / Yandex Market / Ozon integrations be live?**
 A: Near-term roadmap. We'll be specific about timing on the launch plan call. We do not list integrations as "live" until they actually are. `[PROOF — to confirm with engineering: target dates for each marketplace integration. Update this answer to a specific quarter as soon as scoped.]`
@@ -387,7 +387,7 @@ A: Humo and Uzcard acquiring, BTS Express and Yandex Delivery, BNPL at checkout.
 A: Depends. We work with what you have and improve from there. If your storefront is fine and you just need direct channels plus marketplace consolidation, we'll scope that. If a re-platform makes sense, we're honest about why on the call.
 
 **Q: What if our team is small?**
-A: We do the heavy lifting on integrations, configuration, and testing. You stay in the loop on decisions. For enterprise customers with internal engineering, we work alongside your team using Mamurify's API and module system.
+A: We do the heavy lifting on integrations, configuration, and testing. You stay in the loop on decisions. For enterprise customers with internal engineering, we work alongside your team using Own's API and module system.
 
 **Q: What happens after we go live?**
 A: We stay close through your first weeks of real orders across each channel, fix what blocks conversion or sync, and monitor performance as we move on.
@@ -433,7 +433,7 @@ Optionally pair with team photo + names + prior roles once approved.
 
 | Choice | Why it was made |
 |---|---|
-| Hero leads with "operating system for Uzbekistan e-commerce" | Names the load-bearing positioning in the first phrase. Distinguishes Mamurify from a marketplace, a generic SaaS, and a point solution in one line. |
+| Hero leads with "operating system for Uzbekistan e-commerce" | Names the load-bearing positioning in the first phrase. Distinguishes Own from a marketplace, a generic SaaS, and a point solution in one line. |
 | Subhead names channels (storefront, Telegram, marketplaces), local rails (Humo, Uzcard, BTS, Yandex, BNPL, fiscalization, data residency), foundation, and team (SAP, Rakuten, Toptal) | Front-loads every credibility lever the page has — channels, integrations, architecture, team. |
 | Capabilities strip directly under hero CTAs | Concrete proof in one row. Marks marketplace integrations as roadmap with an asterisk so we don't overpromise. |
 | Section 4 ("operating system, not marketplace") added as the load-bearing positioning section | The repositioning the page is selling. Without it, the rest of the page is a feature list; with it, the features add up to a strategic choice. |
@@ -441,7 +441,7 @@ Optionally pair with team photo + names + prior roles once approved.
 | Section 8 (capabilities) split into Channels / Commerce / Local rails | Operating-system framing made concrete. Visitors see the breadth at a glance and the table format scales as channels are added. |
 | Section 9 ("Built on modern stack") added | Enterprise buyers (CTOs, IT directors) need to know what's underneath. 
 | Comparison table includes "Selling only through marketplaces" as the first row | This is the actual starting point for the new primary audience. Not addressing it would leak the most qualified prospects. |
-| Section 12 ("Built by") added — SAP, Rakuten, Toptal | Team credibility is one of the few proof points Mamurify has *today*. For enterprise buyers, this materially de-risks the decision. |
+| Section 12 ("Built by") added — SAP, Rakuten, Toptal | Team credibility is one of the few proof points Own has *today*. For enterprise buyers, this materially de-risks the decision. |
 | FAQ updated with: marketplace replacement, Uzum integration timing, MedusaJS / self-host, customer data ownership, commission economics | These are the new objections the broader positioning creates. Cost-vs-commission goes near the top because every prospect asks it. |
 | No fabricated customer stats or testimonials | The product context explicitly marks customer quotes as `[to-collect]`. The copywriting skill is explicit: fabricated proof erodes trust. Proof slots remain placeholders until real merchants are referenceable. |
 | Risk reversal in final CTA is honest, not gimmicky | "No commitment, we'll only follow up if it's a fit" is something you can actually deliver. "Money-back guarantee" or "free trial" don't fit a high-touch enterprise model. |
@@ -455,10 +455,10 @@ Optionally pair with team photo + names + prior roles once approved.
 1. **Channel & marketplace status.** Have engineering sign off on every row of section 8 ("Channels" table). Lock the **Live vs. Roadmap** labels and provide target quarters for the roadmap items (Uzum, Yandex Market, Ozon). Update the FAQ ("When will Uzum / Yandex Market / Ozon integrations be live?") with specifics as soon as scoped.
 2. **Partner logo rights.** Confirm written usage permission for Humo, Uzcard, BTS Express, Yandex Delivery, Telegram, and Uzum / Yandex Market / Ozon before publishing any logo. If any decline, swap to a text-only label (e.g., "Humo & Uzcard acquiring") to avoid trademark exposure.
 3. **MedusaJS specifics.** Confirm with engineering: which MedusaJS version, license, and modules we extend; whether we contribute upstream; whether we self-host or use Medusa Cloud. Update section 9 once confirmed.
-4. **Team credibility.** Verify which prior employers (SAP, Rakuten, Toptal, others) accurately describe the team currently shipping Mamurify. Per the copywriting skill, only name companies where team members actually worked in roles material to commerce / platform / engineering. Get logo usage rights or use a text-only treatment.
+4. **Team credibility.** Verify which prior employers (SAP, Rakuten, Toptal, others) accurately describe the team currently shipping Own. Per the copywriting skill, only name companies where team members actually worked in roles material to commerce / platform / engineering. Get logo usage rights or use a text-only treatment.
 5. **BNPL specifics.** Decide whether to name BNPL providers explicitly (e.g., Alif Nasiya, Uzum Nasiya) or keep it generic. Naming them is stronger; only do it once integrations are live and the providers permit logo usage.
 6. **Fiscalization wording.** Confirm the exact regulatory term used in Uzbekistan (OFD, fiscal data operator, online cash register, etc.) so the copy matches what merchants and accountants actually search for.
-7. **Commission economics.** Build a sample cost comparison (marketplace commission cost vs. Mamurify cost at typical order volumes) for the FAQ and a future "Compare your costs" calculator page. Do not publish a comparison until the numbers can be defended.
+7. **Commission economics.** Build a sample cost comparison (marketplace commission cost vs. Own cost at typical order volumes) for the FAQ and a future "Compare your costs" calculator page. Do not publish a comparison until the numbers can be defended.
 8. **Customer proof.** Replace every remaining `[PROOF — to collect]` block (testimonial pull-quote, reference merchants, published pricing) with real content — or delete the block. Do not ship placeholders.
 
 ### Production readiness
@@ -478,4 +478,4 @@ See the `ab-test-setup` skill.
 ### Strategic decisions (worth deciding before publish)
 
 16. **Should this be one page or two?** This page now serves three audiences (marketplace-escape, enterprise modernizers, SMB launchers). It works as one page, but conversion will likely be higher with two: a **homepage / OS pitch** (broad, OS-first) and a **focused landing page** (e.g., `/uzum-alternative` or `/marketplace-merchants`) with one tightly aligned message and CTA. Recommend: keep this as the homepage; spin up the focused landing page when we have first-merchant proof.
-17. **Naming.** Brand name standardized to **Mamurify** across the page. Final founder sign-off required before publish (and a sweep across other repo files where the prior inconsistency may still exist).
+17. **Naming.** Brand name standardized to **Own** across the page. Final founder sign-off required before publish (and a sweep across other repo files where the prior inconsistency may still exist).

@@ -1,6 +1,6 @@
 # performance-analytics
 
-How Mamurify knows whether marketing is working — the KPI tree, the dashboards, the weekly read.
+How Own knows whether marketing is working — the KPI tree, the dashboards, the weekly read.
 
 ## Purpose
 
