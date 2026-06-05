@@ -105,6 +105,7 @@ Character counts in `()`. Limits enforced per `.agents/skills/ad-creative/refere
 2. `Marketplaces Are One Channel` (28)
 3. `Own Your Store, Not a Rental` (28)
 4. `A Marketplace Isn't Forever` (27)
+5. `One Channel Isn't a Business` (28)
 
 **Long headlines (≤90):**
 1. `Marketplaces start your business. They don't run it.` (52)
