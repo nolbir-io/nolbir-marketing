@@ -20,8 +20,8 @@ Monthly publishing rhythm supporting campaign priorities.
 
 ## June 2026 — Own launch narrative
 
-**Campaign:** Phase 1 — First 10  
-**Primary audience:** established Uzbekistan merchants selling through Uzum, Yandex Market, Ozon, Telegram, or offline retail.  
+**Campaign:** Phase 1 — First 10
+**Primary audience:** established Uzbekistan merchants selling through Uzum, Yandex Market, Ozon, Telegram, or offline retail.
 **Secondary audience:** investors, strategic partners, agencies, payment/logistics partners.
 
 ### Monthly objective
