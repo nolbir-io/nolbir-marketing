@@ -10,14 +10,17 @@
 
 > **Strategic note.** "Followers, organic reach, and brand awareness" are *reach/engagement* goals, not conversion goals. So every platform here is set to its awareness/engagement objective with a **soft CTA** (Follow, Watch, Learn) — never "Book a call." Run light test budgets, judge creative only after ~1,000+ impressions per asset, and let the strongest 2–3 angles carry the spend. In the CIS the most reliable owned-audience asset is the **Telegram channel**, so Telegram-follow is the primary conversion event for Google and Yandex (which can't grow Instagram follows natively); Meta carries Instagram/Facebook follows.
 
+> **Lead framing — run a movement, not feature ads.** People follow movements, not infrastructure. Per [`docs/strategy/operating-principles.md`](../../docs/strategy/operating-principles.md) (the Shopify "arm the rebels" principle), the campaign's lead angle is a **merchant-identity movement: "Owners, not renters."** Uzbek merchants who own their commerce — storefront, customer, data, economics — instead of renting it from a marketplace. Feature/proof angles (local rails, customer ownership) become the *evidence* underneath the movement, not the headline. The rallying line is **"Own it. Don't rent it."** and the community identity is **Owners**.
+
 ---
 
 ## Creative angles (shared across platforms)
 
-Derived from the established social themes so paid and organic reinforce each other.
+Derived from the established social themes so paid and organic reinforce each other. **Angle M leads**; A–E supply the proof.
 
 | # | Angle | Core idea | Best for |
 |---|-------|-----------|----------|
+| **M** | **Merchant movement (lead)** | **"Owners, not renters." Own it. Don't rent it. — a merchant identity to join.** | **Follower growth, brand recall** |
 | A | Marketplace-escape | "A marketplace is someone else's mall — it's *a* channel, not *the* channel." | Awareness, saves |
 | B | Customer ownership | "You rent the customer on a marketplace. Own makes them yours." | Engagement, follows |
 | C | Local rails | "Built around the rails that move money and goods in Uzbekistan." | Credibility, reach |
@@ -94,6 +97,51 @@ Derived from the established social themes so paid and organic reinforce each ot
 # 2) Ad creative
 
 Character counts in `()`. Limits enforced per `.agents/skills/ad-creative/references/platform-specs.md`. English is source; Cyrillic counts re-validate after localization.
+
+## Angle M — Merchant movement (lead)
+
+> The rallying angle: a merchant *identity* to join, not a product to evaluate. "Owners, not renters." Lead every platform's rotation with this; let A–E supply the proof. CTA is explicit: **Follow / Join**.
+
+### GADS-AWR-M · Google Demand Gen / Display
+**Business name (25):** `Own` (3)
+
+**Short headlines (≤30):**
+1. `Own It. Don't Rent It.` (22)
+2. `Be an Owner, Not a Renter` (25)
+3. `Join Uzbekistan's Owners` (24)
+4. `Merchants Who Own It` (20)
+5. `Own Your Commerce` (17)
+
+**Long headlines (≤90):**
+1. `Own it. Don't rent it. Build commerce that's actually yours.` (60)
+2. `Join the Uzbek merchants who own their storefront, customer, and data.` (70)
+
+**Descriptions (≤90):**
+1. `A movement of Uzbek merchants who own their commerce, not rent it. Follow Own.` (78)
+2. `Own your storefront, customer, data, and economics. Join the Owners.` (68)
+
+### META-AWR-M · Meta (Reels / follow CTA)
+**Primary text:**
+> `Some merchants rent their business from a marketplace. Owners don't.` (68)
+>
+> `Own your storefront, your customer, your data, your economics — built on the rails that actually move money and goods in Uzbekistan.`
+>
+> `Follow to join the Uzbek merchants who own their commerce. Own it. Don't rent it.`
+
+**Headlines (≤40):**
+1. `Own it. Don't rent it.` (22)
+2. `Be an Owner, not a renter` (25)
+
+**Description (≤30):** `Join the Owners` (15)
+
+### YDX-AWR-M · Yandex Text & Image (RSYA) / Media — *Russian-first*
+- **Title 1 (≤56):** `Владейте бизнесом — не арендуйте его` (~36)
+- **Title 2 (≤30):** `Own — для тех, кто владеет` (~26)
+- **Text (≤81):** `Магазин, клиенты и данные — ваши. Присоединяйтесь к тем, кто владеет.` (~68)
+- **Display path (≤20):** `own` (3)
+- *EN gloss:* "Own your business — don't rent it / Own — for those who own / Store, customers and data — yours. Join those who own."
+
+---
 
 ## Angle A — Marketplace-escape
 
@@ -300,7 +348,12 @@ Character counts in `()`. Limits enforced per `.agents/skills/ad-creative/refere
 
 # 3) Video scripts (YouTube + Meta Reels + Yandex video)
 
-Awareness video should land the brand in the first 2 seconds and end on a follow cue. Vertical 9:16 for Reels/Shorts; 16:9 for in-stream.
+Awareness video should land the brand in the first 2 seconds and end on a follow cue. Vertical 9:16 for Reels/Shorts; 16:9 for in-stream. **Lead the rotation with the movement spot (VID-AWR-00).**
+
+### VID-AWR-00 · Bumper (6s, no sound assumed) — Merchant movement (lead)
+- (0–2s) On-screen: **"Some merchants rent their business."**
+- (3–5s) **"Owners don't. Own it — don't rent it."**
+- (6s) Logo + **"Follow Own · Join the Owners"**
 
 ### VID-AWR-01 · Bumper (6s, no sound assumed) — Marketplace-escape
 - (0–2s) On-screen: **"A marketplace is someone else's mall."**
@@ -327,6 +380,7 @@ Awareness video should land the brand in the first 2 seconds and end on a follow
 
 ```csv
 short_headline_1,short_headline_2,short_headline_3,long_headline,description_1,description_2,business_name,angle
+"Own It. Don't Rent It.","Be an Owner, Not a Renter","Join Uzbekistan's Owners","Own it. Don't rent it. Build commerce that's actually yours.","A movement of Uzbek merchants who own their commerce, not rent it. Follow Own.","Own your storefront, customer, data, and economics. Join the Owners.","Own","M_merchant_movement"
 "Sell Beyond the Marketplace","Marketplaces Are One Channel","Own Your Store, Not a Rental","Marketplaces start your business. They don't run it.","Marketplaces are a channel, not the channel. See what owning yours looks like.","Keep marketplaces in your mix and add the channels you actually own.","Own","A_marketplace_escape"
 "Own the Customer Relationship","Your Brand. Your Customer.","Stop Renting Your Customers","On a marketplace you rent the customer. On Own, they're yours.","No commission on direct orders. Your brand, your customer, your data.","The customer who buys today shouldn't be unreachable tomorrow.","Own","B_customer_ownership"
 "Built for Uzbekistan Commerce","Storefront + Telegram + More","Local Rails, One Platform","Built around the rails that move money and goods in Uzbekistan.","Storefront, Telegram, Humo, Uzcard, BTS and Yandex delivery — one operating system.","Local payments and delivery, wired in on day one. Not bent to a global template.","Own","C_local_rails"
@@ -350,10 +404,10 @@ short_headline_1,short_headline_2,short_headline_3,long_headline,description_1,d
 - Branded-search lift in Google + Yandex as a halo signal.
 
 **Iteration loop (log in `performance-analytics/experiments-log.md`):**
-1. Run all 5 angles at equal small budgets for ~1,000+ impressions each.
-2. Keep the top 2 angles by follows-per-1k-reach; pause the bottom 2.
-3. Generate fresh variations on winners (new hooks, same theme) for Wave 2.
-4. Test 1 new wildcard angle per wave.
+1. Lead with **Angle M (movement)** and run the other 5 angles (A–E) as proof at equal small budgets, ~1,000+ impressions each.
+2. Hold the movement framing as the constant; test which *proof* angle (A–E) best converts reach into follows. Keep the top 2 proof angles by follows-per-1k-reach; pause the bottom 2.
+3. Generate fresh variations on the winning movement+proof pairing (new hooks, same identity) for Wave 2.
+4. Test 1 new wildcard proof angle per wave; never dilute the "Owners, not renters" identity.
 
 ---
 
