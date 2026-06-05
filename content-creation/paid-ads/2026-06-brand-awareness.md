@@ -12,6 +12,19 @@
 
 > **Lead framing — run a movement, not feature ads.** People follow movements, not infrastructure. Per [`docs/strategy/operating-principles.md`](../../docs/strategy/operating-principles.md) (the Shopify "arm the rebels" principle), the campaign's lead angle is a **merchant-identity movement: "Owners, not renters."** Uzbek merchants who own their commerce — storefront, customer, data, economics — instead of renting it from a marketplace. Feature/proof angles (local rails, customer ownership) become the *evidence* underneath the movement, not the headline. The rallying line is **"Own it. Don't rent it."** and the community identity is **Owners**.
 
+> **Organic alignment.** This paid wave should amplify the June organic batch in `content-creation/social/`. Paid leads with identity and reach; organic deepens the proof and converts high-intent viewers through DMs, saved posts, and launch-plan calls. Do not optimize paid creative toward hard lead-gen until the awareness layer proves which proof angle earns follows and saves.
+
+## Wave shape
+
+| Moment | Organic anchor | Paid job | Primary CTA |
+|---|---|---|---|
+| Week 1 | Marketplace-escape + thesis posts | Introduce "Owners, not renters" and retarget engagers | Follow / learn |
+| Week 2 | Customer ownership + hidden cost posts | Test pain proof: customer access, commission, ranking volatility | Follow / save |
+| Week 3 | Local rails + activation posts | Build credibility that Own fits Uzbekistan specifically | Follow / watch |
+| Week 4 | Own-your-commerce close | Retarget warm viewers with the movement + soft launch-plan prompt | Follow / visit profile |
+
+**Budget logic:** start broad and light. Give every major proof angle enough impressions to learn, then shift spend to the top 2 proof angles by follows-per-1k-reach and save/share rate. Keep Angle M as the constant movement frame.
+
 ---
 
 ## Creative angles (shared across platforms)
