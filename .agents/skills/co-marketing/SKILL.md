@@ -284,6 +284,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key tools
 
 ## Related Skills
 
+- **gtm-partnership-architecture** — For structuring partner programs, tiering, build-vs-partner decisions, and crawl-walk-run deployment
 - **referral-program** — For customer referral and affiliate programs (customers referring customers)
 - **launch-strategy** — For product launches with partners; covers co-marketing as a "borrowed channel"
 - **content-strategy** — For content planning including co-created content

@@ -109,6 +109,12 @@
       "skillPath": "skills/form-cro/SKILL.md",
       "computedHash": "d6d5dcc076f4042b333a34bb707b3bde22bf1a67f9acfb598cb4d4bf1199f3d5"
     },
+    "gtm-partnership-architecture": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/gtm-partnership-architecture/SKILL.md",
+      "computedHash": "1b502873f7a9eb99cee816b7d5bfc3dd878087a92b9d4dab9b1e2d45e38ab8fe"
+    },
     "free-tool-strategy": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
