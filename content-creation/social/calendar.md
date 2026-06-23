@@ -71,6 +71,38 @@ Telegram, X, and Facebook are net-new channels with no scheduling conflict, so t
 
 IG resumes 2026-07-06 (first Mon/Wed/Fri slot after the Phase 1 batch). LinkedIn resumes 2026-07-14 (first Tuesday after the Phase 1 batch's last post on 2026-07-07).
 
+## Brick-and-mortar segment batch (Instagram)
+
+New ICP slice: offline merchants who already run a **physical store** and have held off going online because it feels like a second full-time job. Core angle: *going online shouldn't become a second job* — Own does the setup and runs the operation underneath. Detail in `content-creation/social/instagram/2026-08-brick-and-mortar.md`.
+
+| Publish | ID | Channel | Format | Status | Theme | Title / hook |
+|---|---|---|---|---|---|---|
+| 2026-08-03 | IG-2026-08-01 | Instagram | Carousel | Draft | Effort-objection | You run a store all day. Going online shouldn't be a second business. |
+| 2026-08-05 | IG-2026-08-02 | Instagram | Reel | Draft | Day-in-the-shop | Your shop keeps selling online while you run the floor |
+| 2026-08-07 | IG-2026-08-03 | Instagram | Carousel | Draft | Effort-breakdown | "Going online" is really 5 jobs. Here's who does each one. |
+| 2026-08-10 | IG-2026-08-04 | Instagram | Carousel | Draft | One-back-office | The fear isn't selling online. It's running two businesses. |
+| 2026-08-12 | IG-2026-08-05 | Instagram | Reel | Draft | Telegram-regulars | Your regulars already message you on Telegram |
+| 2026-08-14 | IG-2026-08-06 | Instagram | Carousel | Draft | Expand-without-second-store | Grow your shop without opening a second one |
+
+**Slotting note:** dedicated segment batch. Exact placement against the four-pillar August IG queue is to be confirmed — runs as its own push or absorbs segment-relevant four-pillar slots. Cadence Mon/Wed/Fri, 2026-08-03 → 2026-08-14.
+
+### Other channels — same segment, channel-fit cuts
+
+Each channel gets a different cut of the segment (not cross-posted IG copy): Facebook + Telegram speak to merchants directly, LinkedIn reframes the segment as an investor thesis, X runs it build-in-public. Detail in the per-channel `2026-08-brick-and-mortar.md` files.
+
+| Publish | ID | Channel | Format | Status | Theme | Title / hook |
+|---|---|---|---|---|---|---|
+| 2026-08-04 | TG-2026-08-01 | Telegram | Text | Draft | Effort-breakdown | "Going online" is really 5 jobs — here's who does each |
+| 2026-08-04 | LI-2026-08-01 | LinkedIn | Long-form | Draft | Segment-thesis | The bigger opportunity: merchants still entirely offline |
+| 2026-08-05 | FB-2026-08-01 | Facebook | Video/Long | Draft | Effort-objection | You've run your shop for years. "Just go online" isn't a switch. |
+| 2026-08-05 | X-2026-08-01 | X | Thread | Draft | Build-in-public | What brick-and-mortar shops say first about going online |
+| 2026-08-06 | TG-2026-08-02 | Telegram | Text | Draft | Telegram-regulars | Your regulars already message you — turn it into a channel |
+| 2026-08-08 | TG-2026-08-03 | Telegram | Poll | Draft | Listen | What's held you back from selling online? |
+| 2026-08-09 | FB-2026-08-02 | Facebook | Long | Draft | Expand-without-second-store | Grow without opening a second location |
+| 2026-08-09 | X-2026-08-02 | X | Single | Draft | Listen | Physical shop, not online yet — what's stopping you? |
+| 2026-08-11 | LI-2026-08-02 | LinkedIn | Long-form | Draft | Effort-as-moat | The onboarding effort is the moat |
+| 2026-08-12 | FB-2026-08-03 | Facebook | Long + Q | Draft | Listen | How many sales last week happened in a chat? |
+
 ## Cadence (four-pillar batch)
 
 - **Telegram:** 3 posts, Tue/Thu/Sat.
