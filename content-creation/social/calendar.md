@@ -8,16 +8,12 @@ Master cross-channel timeline. One row per post, sorted by publish date. Detail 
 |---|---|---|---|---|---|---|
 | 2026-06-08 | IG-2026-06-01 | Instagram | Carousel | Draft | Multi-channel | Marketplaces find customers. Own helps you serve them everywhere. |
 | 2026-06-09 | LI-2026-06-01 | LinkedIn | Long-form | Draft | Thesis | Uzbekistan e-commerce thesis |
-| 2026-06-10 | IG-2026-06-02 | Instagram | Single | Draft | Earn-more | Every channel adds to your total sales |
 | 2026-06-12 | IG-2026-06-03 | Instagram | Reel | Draft | Retention | Turn orders into repeat customers |
-| 2026-06-15 | IG-2026-06-04 | Instagram | Carousel | Draft | Earn-more | What it takes to grow beyond your best channel |
+| 2026-06-15 | IG-2026-06-04 | Instagram | Carousel | Draft | Earn-more | Your Uzum store is doing well. What channel two looks like. |
 | 2026-06-16 | LI-2026-06-02 | LinkedIn | Long-form | Draft | Why now | Three preconditions |
-| 2026-06-17 | IG-2026-06-05 | Instagram | Quote | Draft | Tech-partner | Sell on every channel. Run it from one place. |
-| 2026-06-19 | IG-2026-06-06 | Instagram | Single | Draft | Customer-service | Built for Uzbekistan commerce |
 | 2026-06-22 | IG-2026-06-07 | Instagram | Carousel | Draft | Activation arc | Signed. Live. Transacting. |
 | 2026-06-23 | LI-2026-06-03 | LinkedIn | Long-form | Draft | Team credibility | SAP, Rakuten, Toptal |
 | 2026-06-24 | IG-2026-06-08 | Instagram | Reel | Draft | Channels | Where Uzbek buyers actually shop |
-| 2026-06-26 | IG-2026-06-09 | Instagram | Single | Draft | Multi-channel | One catalog. Every channel. |
 | 2026-06-29 | IG-2026-06-10 | Instagram | Carousel | Draft | Tech-partner | What "own your commerce" means |
 | 2026-06-30 | LI-2026-06-04 | LinkedIn | Long-form | Draft | Category framing | Not a marketplace, not SaaS, not a point solution |
 
@@ -25,13 +21,11 @@ Master cross-channel timeline. One row per post, sorted by publish date. Detail 
 
 | Publish | ID | Channel | Format | Status | Theme | Title / hook |
 |---|---|---|---|---|---|---|
-| 2026-07-01 | IG-2026-06-11 | Instagram | Quote | Draft | Retention | A repeat customer is your cheapest growth |
-| 2026-07-03 | IG-2026-06-12 | Instagram | Single | Draft | Soft CTA | 30 minutes. A written launch plan. |
 | 2026-07-07 | LI-2026-06-05 | LinkedIn | Long-form | Draft | Optimization metric | Signed. Live. Transacting. |
 
 ## Cadence
 
-- **Instagram:** 3×/week, Mon/Wed/Fri.
+- **Instagram:** 6 posts total, Mon/Wed/Fri slots (not every slot filled — posts earn their place).
 - **LinkedIn:** 1×/week, Tuesdays.
 
 ## Campaign tie-in
@@ -58,12 +52,9 @@ Telegram, X, and Facebook are net-new channels with no scheduling conflict, so t
 | Publish | ID | Channel | Format | Status | Pillar | Title / hook |
 |---|---|---|---|---|---|---|
 | 2026-06-24 | X-2026-06-01 | X | Thread | Draft | Movement | Our first design partners go live this month |
-| 2026-06-24 | FB-2026-06-01 | Facebook | Single | Draft | Default | Telegram is a storefront, not just a chat app |
-| 2026-06-25 | TG-2026-06-01 | Telegram | Text | Draft | Movement | We're building Own in public |
-| 2026-06-26 | X-2026-06-02 | X | Single | Draft | Craft | One catalog, every channel |
+| 2026-06-25 | TG-2026-06-01 | Telegram | Text | Draft | Movement | We went live with our first design partner this week |
 | 2026-06-27 | TG-2026-06-02 | Telegram | Text | Draft | Default | What fiscalization actually requires |
 | 2026-06-28 | X-2026-06-03 | X | Single | Draft | Listen | What do you wish your setup did automatically? |
-| 2026-06-28 | FB-2026-06-02 | Facebook | Single | Draft | Craft | Humo, Uzcard, BNPL — one checkout |
 | 2026-06-30 | TG-2026-06-03 | Telegram | Poll | Draft | Listen | What would help you grow most right now? |
 
 ### July 2026 (Instagram / LinkedIn handoff)
@@ -78,14 +69,14 @@ Telegram, X, and Facebook are net-new channels with no scheduling conflict, so t
 | 2026-07-21 | LI-2026-07-02 | LinkedIn | Long-form | Planned | Default | Educational deep-dive (TBD) |
 | 2026-07-28 | LI-2026-07-03 | LinkedIn | Long-form | Planned | Listen | Direct question to network (TBD) |
 
-IG resumes 2026-07-06 (first Mon/Wed/Fri slot after the old batch's last post on 2026-07-03). LinkedIn resumes 2026-07-14 (first Tuesday after the old batch's last post on 2026-07-07).
+IG resumes 2026-07-06 (first Mon/Wed/Fri slot after the Phase 1 batch). LinkedIn resumes 2026-07-14 (first Tuesday after the Phase 1 batch's last post on 2026-07-07).
 
 ## Cadence (four-pillar batch)
 
-- **Telegram:** 3×/week, Tue/Thu/Sat.
-- **X:** 3×/week, Wed/Fri/Sun.
-- **Facebook:** 2×/week, Wed/Sun.
-- **Instagram:** 3×/week, Mon/Wed/Fri (from 2026-07-06).
+- **Telegram:** 3 posts, Tue/Thu/Sat.
+- **X:** 2 posts, Wed/Sun.
+- **Facebook:** Launching in a future batch — no June posts (see `facebook/2026-06.md` for brief).
+- **Instagram:** Mon/Wed/Fri (from 2026-07-06).
 - **LinkedIn:** 1×/week, Tuesday (from 2026-07-14).
 
 ## Campaign tie-in (four-pillar batch)
