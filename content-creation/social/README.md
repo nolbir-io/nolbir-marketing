@@ -56,7 +56,11 @@ All posts must clear `brand-voice/voice-guide.md`, including its positive-sum, p
 
 ## Languages
 
-English source. Translate Uzbek (primary) + Russian (secondary) per `brand-voice/language-matrix.md` before publish. Native review required for regulatory terms (fiscalization, data residency, BNPL).
+Each post carries **three versions inline — EN (source) · RU · UZ** — under one shared visual direction. These are **transcreations, not translations**: each version is written to read natively in its own language, expressing the same meaning rather than mirroring the English word-for-word. Keep all three concise and clear-cut — no padded long-form.
+
+Format inside a post: keep the `**Visual direction (shared):**` block once (the picture does not change across languages — only the text layer does), then stack `**🇬🇧 EN**` / `**🇷🇺 RU**` / `**🇺🇿 UZ**` blocks with the hook, slides/script, caption, and CTA in each. Add a `Localization:` line to the header (e.g. `Localization: EN source · RU + UZ transcreated · native review pending`).
+
+Uzbek is written in Latin script. A native reviewer validates meaning and tone — especially regulatory terms (fiscalization, data residency, BNPL) — before status moves past In review. See `brand-voice/language-matrix.md`.
 
 ## When to start a new file
 
