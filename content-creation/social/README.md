@@ -32,7 +32,7 @@ social/
 Every post inside a monthly file starts with this header so it's greppable and shows up cleanly in the calendar:
 
 ```
-### IG-2026-06-01 · Carousel · Draft · Marketplace-escape
+### IG-2026-06-01 · Carousel · Draft · Multi-channel
 Publish: 2026-06-08
 Campaign: Phase 1 — First 10
 ```
@@ -42,7 +42,7 @@ Campaign: Phase 1 — First 10
 - **ID** — `IG-YYYY-MM-NN` / `LI-YYYY-MM-NN` / `TG-YYYY-MM-NN` / `X-YYYY-MM-NN` / `FB-YYYY-MM-NN`. Stable across edits.
 - **Format** — Carousel · Single · Reel · Quote · Long-form · Text · Poll · Thread
 - **Status** — Draft · In review · Approved · Scheduled · Published · Archived (or Planned for future-dated stubs)
-- **Theme** — short tag. Either a campaign-specific theme (e.g. Marketplace-escape, Local-rails, Team-credibility) or, for the four-pillar batch, one of **Craft** (Apple — feature/product) · **Default** (Google — educational) · **Movement** (Shopify — updates) · **Listen** (feedback) — see `docs/strategy/operating-principles.md`.
+- **Theme** — short tag. Either a merchant-outcome / campaign theme (e.g. Multi-channel, Earn-more, Retention, Customer-service, Tech-partner, Local-rails, Team-credibility) or, for the four-pillar batch, one of **Craft** (Apple — feature/product) · **Default** (Google — educational) · **Movement** (Shopify — updates) · **Listen** (feedback) — see `docs/strategy/operating-principles.md`. Keep the positive-sum, partner-focused stance from `brand-voice/voice-guide.md`.
 - **Publish** — target publish date in ISO format
 - **Campaign** — which phase brief or campaign this post supports
 
@@ -52,7 +52,7 @@ Campaign: Phase 1 — First 10
 
 ## Voice and proof rules
 
-All posts must clear `brand-voice/voice-guide.md`. No fabricated stats or testimonials. Numeric claims must be structural (e.g. "marketplaces take commission on every order") or marked `[PROOF — to collect]`.
+All posts must clear `brand-voice/voice-guide.md`, including its positive-sum, partner-focused marketplace stance. No fabricated stats or testimonials. Numeric claims must be structural (e.g. "every order in Uzbekistan is reported to the OFD") or marked `[PROOF — to collect]`.
 
 ## Languages
 
@@ -61,7 +61,7 @@ English source. Translate Uzbek (primary) + Russian (secondary) per `brand-voice
 ## When to start a new file
 
 - A new calendar month has its own batch worth of posts → new `YYYY-MM.md`
-- A campaign-batch grows past ~20 posts in one file → split by theme into `2026-06-marketplace-escape.md` etc.
+- A campaign-batch grows past ~20 posts in one file → split by theme into `2026-06-multi-channel.md` etc.
 
 ## Index updates
 

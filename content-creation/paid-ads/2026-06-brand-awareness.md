@@ -10,7 +10,7 @@
 
 > **Strategic note.** "Followers, organic reach, and brand awareness" are *reach/engagement* goals, not conversion goals. So every platform here is set to its awareness/engagement objective with a **soft CTA** (Follow, Watch, Learn) — never "Book a call." Run light test budgets, judge creative only after ~1,000+ impressions per asset, and let the strongest 2–3 angles carry the spend. In the CIS the most reliable owned-audience asset is the **Telegram channel**, so Telegram-follow is the primary conversion event for Google and Yandex (which can't grow Instagram follows natively); Meta carries Instagram/Facebook follows.
 
-> **Lead framing — run a movement, not feature ads.** People follow movements, not infrastructure. Per [`docs/strategy/operating-principles.md`](../../docs/strategy/operating-principles.md) (the Shopify "arm the rebels" principle), the campaign's lead angle is a **merchant-identity movement: "Owners, not renters."** Uzbek merchants who own their commerce — storefront, customer, data, economics — instead of renting it from a marketplace. Feature/proof angles (local rails, customer ownership) become the *evidence* underneath the movement, not the headline. The rallying line is **"Own it. Don't rent it."** and the community identity is **Owners**.
+> **Lead framing — run a movement, not feature ads.** People follow movements, not infrastructure. Per [`docs/strategy/operating-principles.md`](../../docs/strategy/operating-principles.md) (a merchant-empowerment movement), the campaign's lead angle is a **merchant-identity movement: "Own your growth."** Uzbek merchants growing their commerce across every channel — storefront, Telegram, and the marketplaces that bring them buyers — with one tech partner running the operation underneath. Feature/proof angles (local rails, retention, customer service) become the *evidence* underneath the movement, not the headline. The rallying line is **"Own your growth."** and the community identity is **Owners** — merchants who grow on their own terms. *(Note: `operating-principles.md` still uses the older "arm the rebels / renters" language and is a recommended follow-up reframe, outside this doc's scope.)*
 
 ---
 
@@ -20,11 +20,11 @@ Derived from the established social themes so paid and organic reinforce each ot
 
 | # | Angle | Core idea | Best for |
 |---|-------|-----------|----------|
-| **M** | **Merchant movement (lead)** | **"Owners, not renters." Own it. Don't rent it. — a merchant identity to join.** | **Follower growth, brand recall** |
-| A | Marketplace-escape | "A marketplace is someone else's mall — it's *a* channel, not *the* channel." | Awareness, saves |
-| B | Customer ownership | "You rent the customer on a marketplace. Own makes them yours." | Engagement, follows |
+| **M** | **Merchant movement (lead)** | **"Own your growth." — a merchant identity for those who grow on their own terms, across every channel.** | **Follower growth, brand recall** |
+| A | Grow everywhere | "Sell on every channel your customers love — and run it all from one place." | Awareness, saves |
+| B | Lasting customer relationships | "Turn first orders into repeat customers, across every channel." | Engagement, follows |
 | C | Local rails | "Built around the rails that move money and goods in Uzbekistan." | Credibility, reach |
-| D | Category thesis | "Uzbekistan needs commerce infrastructure, not another listing." | Reach, brand recall |
+| D | Category thesis | "The operating system Uzbekistan commerce has been missing." | Reach, brand recall |
 | E | Own your commerce / follow-us | Identity + explicit "follow for practical commerce takes." | Follower growth |
 
 ---
@@ -100,129 +100,129 @@ Character counts in `()`. Limits enforced per `.agents/skills/ad-creative/refere
 
 ## Angle M — Merchant movement (lead)
 
-> The rallying angle: a merchant *identity* to join, not a product to evaluate. "Owners, not renters." Lead every platform's rotation with this; let A–E supply the proof. CTA is explicit: **Follow / Join**.
+> The rallying angle: a merchant *identity* to join, not a product to evaluate. "Own your growth." Lead every platform's rotation with this; let A–E supply the proof. CTA is explicit: **Follow / Join**.
 
 ### GADS-AWR-M · Google Demand Gen / Display
 **Business name (25):** `Own` (3)
 
 **Short headlines (≤30):**
-1. `Own It. Don't Rent It.` (22)
-2. `Be an Owner, Not a Renter` (25)
+1. `Own Your Growth` (15)
+2. `Grow on Your Own Terms` (22)
 3. `Join Uzbekistan's Owners` (24)
-4. `Merchants Who Own It` (20)
+4. `Merchants Who Grow It` (21)
 5. `Own Your Commerce` (17)
 
 **Long headlines (≤90):**
-1. `Own it. Don't rent it. Build commerce that's actually yours.` (60)
-2. `Join the Uzbek merchants who own their storefront, customer, and data.` (70)
+1. `Own your growth. Build commerce that grows across every channel.` (63)
+2. `Join the Uzbek merchants growing their storefront, customers, and sales.` (71)
 
 **Descriptions (≤90):**
-1. `A movement of Uzbek merchants who own their commerce, not rent it. Follow Own.` (78)
-2. `Own your storefront, customer, data, and economics. Join the Owners.` (68)
+1. `A movement of Uzbek merchants growing commerce on their own terms. Follow Own.` (78)
+2. `Grow your storefront, customers, and total sales across every channel. Join us.` (79)
 
 ### META-AWR-M · Meta (Reels / follow CTA)
 **Primary text:**
-> `Some merchants rent their business from a marketplace. Owners don't.` (68)
+> `Some merchants wait for one channel to grow them. Owners build their own growth.` (80)
 >
-> `Own your storefront, your customer, your data, your economics — built on the rails that actually move money and goods in Uzbekistan.`
+> `Grow your storefront, your customers, and your total sales across every channel — built on the rails that actually move money and goods in Uzbekistan.`
 >
-> `Follow to join the Uzbek merchants who own their commerce. Own it. Don't rent it.`
+> `Follow to join the Uzbek merchants growing on their own terms. Own your growth.`
 
 **Headlines (≤40):**
-1. `Own it. Don't rent it.` (22)
-2. `Be an Owner, not a renter` (25)
+1. `Own your growth.` (16)
+2. `Grow on your own terms` (22)
 
 **Description (≤30):** `Join the Owners` (15)
 
 ### YDX-AWR-M · Yandex Text & Image (RSYA) / Media — *Russian-first*
-- **Title 1 (≤56):** `Владейте бизнесом — не арендуйте его` (~36)
-- **Title 2 (≤30):** `Own — для тех, кто владеет` (~26)
-- **Text (≤81):** `Магазин, клиенты и данные — ваши. Присоединяйтесь к тем, кто владеет.` (~68)
+- **Title 1 (≤56):** `Развивайте бизнес на своих условиях` (~35)
+- **Title 2 (≤30):** `Own — для тех, кто растёт` (~25)
+- **Text (≤81):** `Магазин, клиенты и продажи растут на всех каналах. Присоединяйтесь.` (~66)
 - **Display path (≤20):** `own` (3)
-- *EN gloss:* "Own your business — don't rent it / Own — for those who own / Store, customers and data — yours. Join those who own."
+- *EN gloss:* "Grow your business on your own terms / Own — for those who grow / Store, customers and sales grow across every channel. Join us."
 
 ---
 
-## Angle A — Marketplace-escape
+## Angle A — Grow everywhere
 
 ### GADS-AWR-A · Google Demand Gen / Display
 **Business name (25):** `Own` (3)
 
 **Short headlines (≤30):**
-1. `Sell Beyond the Marketplace` (27)
-2. `Marketplaces Are One Channel` (28)
-3. `Own Your Store, Not a Rental` (28)
-4. `A Marketplace Isn't Forever` (27)
-5. `One Channel Isn't a Business` (28)
+1. `Sell on Every Channel` (21)
+2. `Run It All From One Place` (25)
+3. `Grow Beyond One Channel` (23)
+4. `Storefront + Telegram + More` (28)
+5. `One System, Every Channel` (26)
 
 **Long headlines (≤90):**
-1. `Marketplaces start your business. They don't run it.` (52)
-2. `A marketplace is a great channel — until it's the only place you sell.` (69)
+1. `Sell on every channel your customers love — run it from one place.` (65)
+2. `Marketplaces, storefront, Telegram — one operating system for all of it.` (72)
 
 **Descriptions (≤90):**
-1. `Marketplaces are a channel, not the channel. See what owning yours looks like.` (78)
-2. `Keep marketplaces in your mix and add the channels you actually own.` (67)
+1. `Add direct channels alongside your marketplaces. One catalog, one back office.` (78)
+2. `Keep marketplaces in your mix and grow the channels you run yourself.` (68)
 
 ### META-AWR-A · Meta (Reels / Feed)
 **Primary text** (hook front-loaded, ≤125 visible / 2,200 max):
-> `A marketplace is someone else's mall. A great place to be — until it's the only place you sell.` (95)
+> `Your customers are on marketplaces, on Telegram, and looking for your own store. Be everywhere they are.` (104)
 >
-> `Own keeps marketplaces in your mix and adds the channels you own: a storefront and Telegram, with Humo, Uzcard, BTS and Yandex delivery wired in.`
+> `Own brings marketplaces, your storefront, and Telegram into one system — with Humo, Uzcard, BTS and Yandex delivery wired in. One catalog, one back office.`
 >
-> `Follow for practical takes on building commerce you actually own in Uzbekistan.`
+> `Follow for practical takes on growing commerce across every channel in Uzbekistan.`
 
 **Headlines (≤40):**
-1. `Marketplaces are one channel` (28)
-2. `Own your store. Keep your customer.` (35)
+1. `Sell on every channel` (21)
+2. `Run it all from one place` (25)
 
 **Description (≤30):** `Follow @own` (11)
 
 ### YDX-AWR-A · Yandex Text & Image (RSYA) — *Russian-first*
-- **Title 1 (≤56):** `Маркетплейс — это не вся ваша торговля` (~38)
-- **Title 2 (≤30):** `Own — ваша платформа` (~20)
-- **Text (≤81):** `Свой магазин, Telegram, Humo, Uzcard, доставка BTS и Яндекс — одна система.` (~75)
+- **Title 1 (≤56):** `Продавайте на всех каналах сразу` (~32)
+- **Title 2 (≤30):** `Own — всё в одной системе` (~25)
+- **Text (≤81):** `Маркетплейсы, свой магазин, Telegram, Humo, Uzcard, доставка — одна система.` (~75)
 - **Display path (≤20):** `magazin` (7)
-- *EN gloss:* "A marketplace isn't your whole business / Own — your platform / Your store, Telegram, Humo, Uzcard, BTS & Yandex delivery — one system."
+- *EN gloss:* "Sell on every channel at once / Own — everything in one system / Marketplaces, your store, Telegram, Humo, Uzcard, delivery — one system."
 
 ---
 
-## Angle B — Customer ownership
+## Angle B — Lasting customer relationships
 
 ### GADS-AWR-B · Google Demand Gen / Display
 **Short headlines (≤30):**
-1. `Own the Customer Relationship` (29)
-2. `Your Brand. Your Customer.` (26)
-3. `Stop Renting Your Customers` (27)
-4. `The Customer Should Be Yours` (28)
+1. `Turn Buyers Into Regulars` (25)
+2. `Build Repeat Customers` (22)
+3. `One Customer Record` (19)
+4. `Keep Customers Coming Back` (26)
 
 **Long headlines (≤90):**
-1. `On a marketplace you rent the customer. On Own, they're yours.` (62)
+1. `Turn first orders into repeat customers, across every channel.` (62)
 2. `Order history, contacts, repurchase data — in your instance, in-country.` (72)
 
 **Descriptions (≤90):**
-1. `No commission on direct orders. Your brand, your customer, your data.` (69)
-2. `The customer who buys today shouldn't be unreachable tomorrow.` (61)
+1. `One customer record across every channel. Reach buyers again and again.` (71)
+2. `A repeat customer is your cheapest growth. Build it with Own.` (60)
 
 ### META-AWR-B · Meta (Reels)
 **Primary text:**
-> `You sold 1,000 orders on the marketplace last month. Can you email those customers tomorrow?` (92)
+> `You sold 1,000 orders last month across your channels. How many of those buyers will come back?` (95)
 >
-> `Probably not — the marketplace owns the customer record, not you. On Own, the customer is yours: order history, contacts, repurchase behavior, in your instance and in-country.`
+> `With Own, every customer lives in one record — order history, contacts, repurchase behavior, in your instance and in-country. So you can bring them back with a message, an offer, a reorder nudge.`
 >
-> `Follow for more on owning your commerce.`
+> `Follow for more on growing repeat business in Uzbekistan.`
 
 **Headlines (≤40):**
-1. `Own your customers` (18)
-2. `Your customer, not the platform's` (33)
+1. `Build repeat customers` (22)
+2. `One customer record, every channel` (34)
 
-**Description (≤30):** `Your brand. Your customer.` (26)
+**Description (≤30):** `Keep them coming back` (21)
 
 ### YDX-AWR-B · Yandex Text & Image (RSYA)
-- **Title 1 (≤56):** `На маркетплейсе клиент не ваш` (~29)
-- **Title 2 (≤30):** `С Own — клиент ваш` (~18)
+- **Title 1 (≤56):** `Превращайте покупателей в постоянных` (~36)
+- **Title 2 (≤30):** `С Own — клиенты возвращаются` (~28)
 - **Text (≤81):** `История заказов, контакты и повторные продажи — в вашей системе, в стране.` (~73)
 - **Display path (≤20):** `klienty` (7)
-- *EN gloss:* "On a marketplace the customer isn't yours / With Own — the customer is yours / Order history, contacts & repeat sales — in your system, in-country."
+- *EN gloss:* "Turn buyers into regulars / With Own — customers come back / Order history, contacts & repeat sales — in your system, in-country."
 
 ---
 
@@ -351,20 +351,20 @@ Character counts in `()`. Limits enforced per `.agents/skills/ad-creative/refere
 Awareness video should land the brand in the first 2 seconds and end on a follow cue. Vertical 9:16 for Reels/Shorts; 16:9 for in-stream. **Lead the rotation with the movement spot (VID-AWR-00).**
 
 ### VID-AWR-00 · Bumper (6s, no sound assumed) — Merchant movement (lead)
-- (0–2s) On-screen: **"Some merchants rent their business."**
-- (3–5s) **"Owners don't. Own it — don't rent it."**
+- (0–2s) On-screen: **"Grow your commerce on your own terms."**
+- (3–5s) **"Every channel. One system. Own your growth."**
 - (6s) Logo + **"Follow Own · Join the Owners"**
 
-### VID-AWR-01 · Bumper (6s, no sound assumed) — Marketplace-escape
-- (0–2s) On-screen: **"A marketplace is someone else's mall."**
-- (3–5s) **"Own the storefront. Keep the customer."**
+### VID-AWR-01 · Bumper (6s, no sound assumed) — Grow everywhere
+- (0–2s) On-screen: **"Your customers are on every channel."**
+- (3–5s) **"Sell everywhere. Run it from one place."**
 - (6s) Logo + **"Follow Own"**
 
-### VID-AWR-02 · Skippable in-stream / Reel (15–20s) — Customer ownership
-- (0–3s) `You sold 1,000 orders last month. Can you email those customers tomorrow?`
-- (4–9s) `Probably not. The marketplace owns the customer — not you.`
-- (10–17s) `On Own, the customer is yours: order history, contacts, repurchase data — in your instance, in-country.`
-- (18–20s) `Own your store. Own your customers.` [Logo + Follow]
+### VID-AWR-02 · Skippable in-stream / Reel (15–20s) — Lasting customer relationships
+- (0–3s) `You sold 1,000 orders last month. How many will come back?`
+- (4–9s) `With Own, every customer lives in one record — across every channel you sell on.`
+- (10–17s) `Order history, contacts, repurchase data — in your instance, in-country. So you can bring them back.`
+- (18–20s) `Find them anywhere. Keep them with Own.` [Logo + Follow]
 
 ### VID-AWR-03 · Reel / Short (15–18s) — Local rails
 - (0–3s) `Telegram is where Uzbek buyers spend their time.`
@@ -380,11 +380,11 @@ Awareness video should land the brand in the first 2 seconds and end on a follow
 
 ```csv
 short_headline_1,short_headline_2,short_headline_3,long_headline,description_1,description_2,business_name,angle
-"Own It. Don't Rent It.","Be an Owner, Not a Renter","Join Uzbekistan's Owners","Own it. Don't rent it. Build commerce that's actually yours.","A movement of Uzbek merchants who own their commerce, not rent it. Follow Own.","Own your storefront, customer, data, and economics. Join the Owners.","Own","M_merchant_movement"
-"Sell Beyond the Marketplace","Marketplaces Are One Channel","Own Your Store, Not a Rental","Marketplaces start your business. They don't run it.","Marketplaces are a channel, not the channel. See what owning yours looks like.","Keep marketplaces in your mix and add the channels you actually own.","Own","A_marketplace_escape"
-"Own the Customer Relationship","Your Brand. Your Customer.","Stop Renting Your Customers","On a marketplace you rent the customer. On Own, they're yours.","No commission on direct orders. Your brand, your customer, your data.","The customer who buys today shouldn't be unreachable tomorrow.","Own","B_customer_ownership"
+"Own Your Growth","Grow on Your Own Terms","Join Uzbekistan's Owners","Own your growth. Build commerce that grows across every channel.","A movement of Uzbek merchants growing commerce on their own terms. Follow Own.","Grow your storefront, customers, and total sales across every channel. Join us.","Own","M_merchant_movement"
+"Sell on Every Channel","Run It All From One Place","Grow Beyond One Channel","Sell on every channel your customers love — run it from one place.","Add direct channels alongside your marketplaces. One catalog, one back office.","Keep marketplaces in your mix and grow the channels you run yourself.","Own","A_grow_everywhere"
+"Turn Buyers Into Regulars","Build Repeat Customers","One Customer Record","Turn first orders into repeat customers, across every channel.","One customer record across every channel. Reach buyers again and again.","A repeat customer is your cheapest growth. Build it with Own.","Own","B_customer_relationships"
 "Built for Uzbekistan Commerce","Storefront + Telegram + More","Local Rails, One Platform","Built around the rails that move money and goods in Uzbekistan.","Storefront, Telegram, Humo, Uzcard, BTS and Yandex delivery — one operating system.","Local payments and delivery, wired in on day one. Not bent to a global template.","Own","C_local_rails"
-"Not a Marketplace Listing","Commerce Infrastructure","The OS for Uzbek Commerce","Uzbekistan needs commerce infrastructure, not another marketplace listing.","A young market, fast e-commerce growth, and almost all of it on three platforms.","Own runs your commerce across the channels you own. Follow the build.","Own","D_category_thesis"
+"The OS for Uzbek Commerce","Commerce Infrastructure","One System, Every Channel","The operating system Uzbekistan commerce has been missing.","A young market, fast e-commerce growth, and the infrastructure to grow across every channel.","Own runs your commerce across every channel. Follow the build.","Own","D_category_thesis"
 "Follow Own for Uzbek Commerce","Own Your Commerce","Build Commerce You Own","Own your storefront, your customer, your data, and your economics.","Follow Own for practical takes on building commerce you actually own.","Every layer of your operation, in your control. Follow to see how.","Own","E_follow"
 ```
 
@@ -407,7 +407,7 @@ short_headline_1,short_headline_2,short_headline_3,long_headline,description_1,d
 1. Lead with **Angle M (movement)** and run the other 5 angles (A–E) as proof at equal small budgets, ~1,000+ impressions each.
 2. Hold the movement framing as the constant; test which *proof* angle (A–E) best converts reach into follows. Keep the top 2 proof angles by follows-per-1k-reach; pause the bottom 2.
 3. Generate fresh variations on the winning movement+proof pairing (new hooks, same identity) for Wave 2.
-4. Test 1 new wildcard proof angle per wave; never dilute the "Owners, not renters" identity.
+4. Test 1 new wildcard proof angle per wave; never dilute the "Own your growth" identity.
 
 ---
 

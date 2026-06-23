@@ -30,7 +30,7 @@ Every headline / description / primary-text line carries its character count in 
 
 ## Voice and proof rules
 
-All creative must clear `brand-voice/voice-guide.md`. No fabricated stats or testimonials. Numeric claims must be structural facts (e.g. "marketplaces take commission on every order") or marked `[PROOF — to collect]`.
+All creative must clear `brand-voice/voice-guide.md`, including its positive-sum, partner-focused marketplace stance. No fabricated stats or testimonials. Numeric claims must be structural facts (e.g. "every order in Uzbekistan is reported to the OFD") or marked `[PROOF — to collect]`.
 
 ## Languages
 
