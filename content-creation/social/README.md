@@ -12,6 +12,12 @@ social/
     YYYY-MM.md             # all Instagram posts in a given campaign batch
   linkedin/
     YYYY-MM.md             # all LinkedIn posts in a given campaign batch
+  telegram/
+    YYYY-MM.md             # all Telegram posts in a given campaign batch
+  x/
+    YYYY-MM.md             # all X posts in a given campaign batch
+  facebook/
+    YYYY-MM.md             # all Facebook posts in a given campaign batch
   _archive/                # closed months / superseded drafts
 ```
 
@@ -19,7 +25,7 @@ social/
 
 - One file per channel per campaign-batch month: `social/instagram/2026-06.md`
 - File month = the month the batch *starts*. If a few posts in the batch publish in early next month, they stay in the start-month file. A new file is created when the next month has its own batch worth of posts.
-- Each post inside the file gets a stable ID: `IG-YYYY-MM-NN` / `LI-YYYY-MM-NN`.
+- Each post inside the file gets a stable ID: `IG-YYYY-MM-NN` / `LI-YYYY-MM-NN` / `TG-YYYY-MM-NN` (Telegram) / `X-YYYY-MM-NN` (X) / `FB-YYYY-MM-NN` (Facebook).
 
 ## Post header format
 
@@ -33,10 +39,10 @@ Campaign: Phase 1 — First 10
 
 **Fields:**
 
-- **ID** — `IG-YYYY-MM-NN` or `LI-YYYY-MM-NN`. Stable across edits.
-- **Format** — Carousel · Single · Reel · Quote · Long-form
-- **Status** — Draft · In review · Approved · Scheduled · Published · Archived
-- **Theme** — short tag (e.g. Marketplace-escape, Local-rails, Team-credibility, Activation-arc)
+- **ID** — `IG-YYYY-MM-NN` / `LI-YYYY-MM-NN` / `TG-YYYY-MM-NN` / `X-YYYY-MM-NN` / `FB-YYYY-MM-NN`. Stable across edits.
+- **Format** — Carousel · Single · Reel · Quote · Long-form · Text · Poll · Thread
+- **Status** — Draft · In review · Approved · Scheduled · Published · Archived (or Planned for future-dated stubs)
+- **Theme** — short tag. Either a campaign-specific theme (e.g. Marketplace-escape, Local-rails, Team-credibility) or, for the four-pillar batch, one of **Craft** (Apple — feature/product) · **Default** (Google — educational) · **Movement** (Shopify — updates) · **Listen** (feedback) — see `docs/strategy/operating-principles.md`.
 - **Publish** — target publish date in ISO format
 - **Campaign** — which phase brief or campaign this post supports
 

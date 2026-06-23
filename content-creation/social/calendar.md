@@ -37,3 +37,57 @@ Master cross-channel timeline. One row per post, sorted by publish date. Detail 
 ## Campaign tie-in
 
 All posts in this batch support **Phase 1 — First 10** (`campaigns/phase-1-brief.md`). Goal: drive launch-plan call bookings from established merchants on Uzum/Yandex Market/Ozon and warm investor pipeline.
+
+---
+
+## Four-pillar batch (Craft / Default / Movement / Listen)
+
+A parallel system, run alongside the marketplace-escape batch above, covering product updates, feature spotlights, educational content, and audience feedback — organized using the Apple/Google/Shopify lens already defined in `docs/strategy/operating-principles.md`:
+
+| Pillar | Borrowed standard | Covers |
+|---|---|---|
+| **Craft** | Apple — whole-product, zero rough edges | Feature spotlights, product screenshots |
+| **Default** | Google — 10x one job, teach the mechanic | Educational explainers on payments, fiscalization, BNPL, Telegram |
+| **Movement** | Shopify — arm the rebels, mission not feature list | Company updates, milestones, behind-the-scenes |
+| **Listen** | Cross-cutting | Polls, AMAs, direct questions, feedback prompts |
+
+Telegram, X, and Facebook are net-new channels with no scheduling conflict, so this system launches on them immediately. Instagram and LinkedIn adopt the system once their current marketplace-escape queue clears (see per-channel files for exact handoff dates).
+
+### June 2026 (Telegram / X / Facebook)
+
+| Publish | ID | Channel | Format | Status | Pillar | Title / hook |
+|---|---|---|---|---|---|---|
+| 2026-06-24 | X-2026-06-01 | X | Thread | Draft | Movement | Our first design partners go live this month |
+| 2026-06-24 | FB-2026-06-01 | Facebook | Single | Draft | Default | Telegram is a storefront, not just a chat app |
+| 2026-06-25 | TG-2026-06-01 | Telegram | Text | Draft | Movement | We're building Own in public |
+| 2026-06-26 | X-2026-06-02 | X | Single | Draft | Craft | One catalog, every channel |
+| 2026-06-27 | TG-2026-06-02 | Telegram | Text | Draft | Default | What fiscalization actually requires |
+| 2026-06-28 | X-2026-06-03 | X | Single | Draft | Listen | What do you wish your setup did automatically? |
+| 2026-06-28 | FB-2026-06-02 | Facebook | Single | Draft | Craft | Humo, Uzcard, BNPL — one checkout |
+| 2026-06-30 | TG-2026-06-03 | Telegram | Poll | Draft | Listen | Commission vs. building your own stack |
+
+### July 2026 (Instagram / LinkedIn handoff)
+
+| Publish | ID | Channel | Format | Status | Pillar | Title / hook |
+|---|---|---|---|---|---|---|
+| 2026-07-06 | IG-2026-07-01 | Instagram | Carousel | Planned | Craft | Feature spotlight (TBD) |
+| 2026-07-08 | IG-2026-07-02 | Instagram | Reel | Planned | Movement | Behind-the-scenes / milestone (TBD) |
+| 2026-07-10 | IG-2026-07-03 | Instagram | Quote | Planned | Listen | Poll/question post (TBD) |
+| 2026-07-13 | IG-2026-07-04 | Instagram | Carousel | Planned | Default | Educational explainer (TBD) |
+| 2026-07-14 | LI-2026-07-01 | LinkedIn | Long-form | Planned | Movement | Milestone / build-in-public update (TBD) |
+| 2026-07-21 | LI-2026-07-02 | LinkedIn | Long-form | Planned | Default | Educational deep-dive (TBD) |
+| 2026-07-28 | LI-2026-07-03 | LinkedIn | Long-form | Planned | Listen | Direct question to network (TBD) |
+
+IG resumes 2026-07-06 (first Mon/Wed/Fri slot after the old batch's last post on 2026-07-03). LinkedIn resumes 2026-07-14 (first Tuesday after the old batch's last post on 2026-07-07).
+
+## Cadence (four-pillar batch)
+
+- **Telegram:** 3×/week, Tue/Thu/Sat.
+- **X:** 3×/week, Wed/Fri/Sun.
+- **Facebook:** 2×/week, Wed/Sun.
+- **Instagram:** 3×/week, Mon/Wed/Fri (from 2026-07-06).
+- **LinkedIn:** 1×/week, Tuesday (from 2026-07-14).
+
+## Campaign tie-in (four-pillar batch)
+
+Supports **Phase 1 — First 10** (`campaigns/phase-1-brief.md`). The Listen pillar specifically supports the phase's "documented qualitative feedback from every partner" success metric.
